@@ -12,13 +12,12 @@
         <ul>
             <?php
                 $dirs = glob('/home/ubuntu/privado/*' , GLOB_ONLYDIR);
-                echo '<pre>' . var_export($dirs, true) . '</pre>';
                 
-                               '<br>';
-                foreach ($dirs as $clave => $valor) {
-                $n = pathinfo($dirs[$clave]);
+                foreach ($dirs as  $valor) {
+                $n = pathinfo($valor);
+                $img = scandir($valor,1);
                 ?>
-                 <li><a href><?=$n['basename']?></a> </li>
+                 <li><a href="imagen.php?user=<?=$n['basename']?>&img=<?=$img[0]?>"><?=$n['basename']?></a> </li>
                 
                  <?php   
                 }

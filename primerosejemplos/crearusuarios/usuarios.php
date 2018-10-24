@@ -1,7 +1,9 @@
 <?php
+echo '<pre>' . var_export($_FILES, true) . '</pre>';
 
 require('Upload.php');
 require('Reader.php');
+$val= false;
 $nombre = Reader::post('nombre');
 $file = new Upload('archivo');
 $destino = '/home/ubuntu/privado/';
@@ -17,8 +19,10 @@ echo $file->getTarget();
             mkdir($destino.$nombre, 0700);
             $file->upload();
             echo '<pre>' . var_export($file, true) . '</pre>';
-            
+           $val=true; 
         }
         
     }
     
+$url = 'Respuesta.php?op=' . $val;
+header('Location: ' . $url);
