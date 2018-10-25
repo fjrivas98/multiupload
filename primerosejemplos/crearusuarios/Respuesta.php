@@ -3,9 +3,9 @@ require('Reader.php');
 $respuesta = Reader::get('op');
 if($respuesta!==null){
     if($respuesta == true){
-        echo 'olé tu!';
+        echo 'bien insertado';
     }else{
-        echo 'Contacta con el sensual admin 657328857';
+        echo 'Error , contacta con el admin';
     }
 }
 

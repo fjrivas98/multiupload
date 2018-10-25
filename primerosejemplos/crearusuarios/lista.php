@@ -12,7 +12,6 @@
         <ul>
             <?php
                 $dirs = glob('/home/ubuntu/privado/*' , GLOB_ONLYDIR);
-                
                 foreach ($dirs as  $valor) {
                 $n = pathinfo($valor);
                 $img = scandir($valor,1);

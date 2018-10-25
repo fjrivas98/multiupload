@@ -14,6 +14,6 @@
         <link rel="stylesheet" href="./styles.css" type="text/css" />
     </head>
     <body>
-    <img src="data:image/*;base64,<?php echo base64_encode(file_get_contents('/home/ubuntu/privado/' . $nombre . '/' . $img));?>"/>
+        <img src="data:image/*;base64,<?php echo base64_encode(file_get_contents('/home/ubuntu/privado/' . $nombre . '/' . $img));?>"/>
     </body>
 </html>
