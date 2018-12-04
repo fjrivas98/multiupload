@@ -30,6 +30,7 @@ $alert = Alert::getMessage(Reader::get('op'), Reader::get('resultado'));
         <title>dwes</title>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
         <link rel="stylesheet" href="../css/style.css" >
+        <script src="../js/validacion.js" defer></script>
     </head>
     <body>
         <!-- modal -->
@@ -76,7 +77,7 @@ $alert = Alert::getMessage(Reader::get('op'), Reader::get('resultado'));
                 </div>
             </div>
             <div class="container">
-                <form action="doedit.php" method="post">
+                <form id="formulario" action="doedit.php" method="post">
                     <div class="form-group">
                             <input required type="hidden" class="form-control" id="id" name="id"  value="<?= $usuario->getId() ?>">
                         </div>
@@ -99,11 +100,11 @@ $alert = Alert::getMessage(Reader::get('op'), Reader::get('resultado'));
                     </div>
                     <div class="form-group">
                         <label for="clave">Clave</label>
-                        <input type="password" class="form-control" id="clave" name="clave" placeholder="Introduce la clave nueva del usuario">
+                        <input type="password" class="form-control" id="clave" name="clave" placeholder="Introduce la clave nueva del usuario"><span></span>
                     </div>
                     <div class="form-group">
                         <label for="clave2">Repite clave</label>
-                        <input type="password" class="form-control" id="clave2" name="clave2" placeholder="Repite la clave nueva del usuario">
+                        <input type="password" class="form-control" id="clave2" name="clave2" placeholder="Repite la clave nueva del usuario"><span></span>
                     </div>
                     <div class="form-group">
                             <label for="clave">Usuario activo:</label>
