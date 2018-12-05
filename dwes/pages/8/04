@@ -1,0 +1,8 @@
+<h2 class="normal">Instanciación</h2>
+<div align="left">
+<code>
+    $objeto = new NombreClase();<br>
+    $objeto->nombreMetodo();<br>
+    NombreClase::nombreMetodoEstatico();<br>
+</code>
+</div>

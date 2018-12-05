@@ -1,0 +1,9 @@
+<div align="left">
+    &lt;optgroup&gt; creates a grouping of options within a &lt;select&gt; element.
+    <hr>
+    &lt;option&gt; used to define an item contained in a &lt;select&gt;, an &lt;optgroup&gt;, or a &lt;datalist&gt; element.
+    <hr>
+    &lt;output&gt; a container element into which a site or app can inject the results of a calculation or the outcome of an user action.
+    <hr>
+    &lt;progress&gt; displays an indicator showing the completion progress of a task, typically displayed as a progress bar.
+</div>

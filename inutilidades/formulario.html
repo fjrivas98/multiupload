@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+		<title>Formulario</title>
+		<meta charset="utf-8">
+	</head>
+	
+	<body>
+		<form method="get" enctype="application/x-www-form-urlencoded" action="Formulario.php">
+			<label for="name">nombre:</label>
+			<input type="text" name="nombre" value="" />
+			
+				<br/>
+				
+			<label for="name">numeros:</label>
+			<input type="number" name="numero" value="" />
+			
+				<br/>
+				
+			<label for="name">contraseña:</label>
+		 	<input type="password" name="pw" value="" />
+				<br/>
+			 <input type="checkbox" name="bike" value="bike"> I have a bike<br>
+	  		<input type="checkbox" name="car" value="car" checked> I have a car<br>
+				<br/>
+			<label for="name">radio:</label>
+			<input type="radio" name="radio" value="radio" />
+				<br/>
+				<br/><br/>
+			<label for="name">Fichero adjunto</label>
+			<input type="file" name="files" />
+				<br/>
+			<label for="descripcion">Descripción del producto</label> <br/>
+			<textarea  name="txtarea" cols="40" rows="5"></textarea>
+				<br/>
+			<label for="so">Sistema operativo</label> <br/>
+			<select  name="select">
+				<option value="" selected="selected">- selecciona -</option>
+				<option value="hola">hola</option>
+				<option value="my">my</option>
+				<option value="friend">friend</option>
+				<option value="otro">Otro</option>
+			</select>
+			
+			<br/><label for="">Select your favorite color:</label>
+	  		<input type="color" name="color">
+	  		
+	  		<br/><label for="">cumpleaños</label>
+	  		<input type="date" name="bday">
+	  		
+	  		 <br></bd> <label>E-mail:</label>
+	 		 <input type="email" name="email">
+	  		
+	  		<br><label for="">rango</label>
+	  		 <input type="range" name="rango" min="0" max="10">
+	  		 
+	  		 <br><label for="">url</label>
+	  		<input type="url" name="url">
+	  		<br/>
+	  		<select  name="select2" size="5">
+	  			<outgroup>
+				<option value="" selected="selected">- selecciona -</option>
+				<option value="hola">hola</option>
+				<option value="my">my</option>
+				<option value="friend">friend</option>
+				<option value="otro">Otro</option>
+				</outgroup>
+			</select>
+	  		
+	  		
+		  <input type="submit" name="enviar" value="enviar" />
+				<br/><br/>
+			<input type="reset" name="reset" value="reiniciar" />
+		</form>
+	</body>
+
+</html>

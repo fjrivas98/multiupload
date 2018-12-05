@@ -1,0 +1,9 @@
+<h2 class="normal">delete, insert, update</h2>
+<div align="left">
+    delete from tabla1 where campo1 = 'valor';<br>
+    insert into tabla1 values ('valor1', …);<br>
+    insert into tabla1 (campo1, campo2)<br>
+        &nbsp;&nbsp;values ('valor1', 'valor2'));<br>
+    update tabla1 set campo1 = 'valor1'<br>
+        &nbsp;&nbsp;where campo2 = 'valor2';
+</div>

@@ -1,0 +1,10 @@
+<div align="left">
+    <code class="smaller">
+        move_uploaded_file($_FILES['archivo']['tmp_name'],<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;$destino);
+    </code>
+    <br><br>
+    La carpeta de destino será la carpeta actual.
+    Para cambiar de carpeta se deberá
+    indicar la ruta relativa o absoluta.
+</div>

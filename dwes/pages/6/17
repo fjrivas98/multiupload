@@ -1,0 +1,16 @@
+<style>
+    .reveal code .smaller { font-size: 60%; }
+</style>
+<h2 class="normal">Arrays multidimensionales</h2>
+<div align="left">
+    Cualquiera de los valores del array puede ser a su vez un array.
+    <br>
+    <code class="smaller">
+        $coches = <br>
+        &nbsp;&nbsp;['de' => ['bmw', 'mercedes'],<br>
+        &nbsp;&nbsp;'fr' => ['citroën', 'peugeot',<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;'renault']];<br>
+        <br>
+        echo $coches['de'][1];
+    </code>
+</div>

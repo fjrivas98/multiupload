@@ -1,0 +1,32 @@
+<style>
+    .reveal div .lower { text-transform: lowercase; }
+</style>
+<h2 class="lower">&lt;input&gt; types</h2>
+<div align="left">
+    button
+    checkbox
+    color
+    date
+    datetime-local
+    email
+    file
+    hidden
+    image
+    month
+    number
+    password
+    radio
+    range
+    reset
+    search
+    submit
+    tel
+    text
+    time
+    url
+    week
+    <style type="text/css">
+    .tachado { text-decoration:line-through; }
+    </style>
+    <span class="tachado">datetime</span>
+</div>

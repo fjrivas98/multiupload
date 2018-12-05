@@ -1,0 +1,6 @@
+<h2 class="normal">session_status() === PHP_SESSION_NONE</h2>
+<div align="left">
+    Sólo se puede ejecutar una sola vez el session_start(). La única
+    forma de comprobar si ya hemos accedido previamente a la sesión es
+    usando esta condición.
+</div>

@@ -1,0 +1,11 @@
+<div align="left">
+    <code class="smaller">
+        foreach($_FILES['archivos']['error'] as $i=>$error) {<br>
+            &nbsp;&nbsp;if($error === UPLOAD_ERR_OK){<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;$tmp_name = $_FILES['archivos']['tmp_name'][$i];<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;$name = $_FILES['archivos']['name'][$i];<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;move_uploaded_file($tmp_name, $name);<br>
+            &nbsp;&nbsp;}<br>
+        }
+    </code>
+</div>

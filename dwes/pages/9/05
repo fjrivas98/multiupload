@@ -1,0 +1,11 @@
+<h2>
+    Códigos de error II
+</h2>
+<div align="left">
+    <ul>
+        <li>UPLOAD_ERR_NO_FILE, 4, no se ha subido archivo</li>
+        <li>UPLOAD_ERR_NO_TMP_DIR, 5, no existe carpeta temporal</li>
+        <li>UPLOAD_ERR_CANT_WRITE, 6, no se puede escribir en disco</li>
+        <li>UPLOAD_ERR_EXTENSION, 7, alguna extensión de php ha impedido subir el archivo</li>
+    </ul>
+</div>

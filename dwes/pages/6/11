@@ -1,0 +1,7 @@
+<h2 class="normal">null / NULL</h2>
+<div align="left">
+    El valor null es el valor que tiene una variable sin valor.<br>
+    Una variable tiene el valor null, si no se le ha asignado valor, si se le
+    ha asignado el valor null o si se ha desasignado con el método unset().<br>
+    Se puede comprobar el valor null con is_null() o comparando con null (==, ===).
+</div>

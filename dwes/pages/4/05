@@ -1,0 +1,9 @@
+<h2 class="lower">&lt;section&gt;</h2>
+<div align="left">
+    &lt;section&gt; is similar to &lt;article&gt;, but it is more for grouping
+    together a single part of the page that constitutes one single piece
+    of functionality. It's considered best practice to begin each section
+    with a heading; also note that you can break &lt;article&gt;s up into
+    different &lt;section&gt;s, or &lt;section&gt;s up into different
+    &lt;article&gt;s, depending on the context.
+</div>

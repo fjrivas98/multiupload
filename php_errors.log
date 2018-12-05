@@ -1,0 +1,385 @@
+[21-May-2018 10:26:43 UTC] PHP Notice:  Undefined variable: page in /home/ubuntu/workspace/reveal/getpage.php on line 11
+[21-May-2018 10:26:43 UTC] PHP Notice:  Undefined variable: page in /home/ubuntu/workspace/reveal/getpage.php on line 11
+[19-Sep-2018 12:06:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpinfos() in /home/ubuntu/workspace/old/info.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/old/info.php on line 3
+[21-Sep-2018 10:30:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function urlencoded() in /home/ubuntu/workspace/inutilidades/pagina31.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/inutilidades/pagina31.php on line 29
+[21-Sep-2018 10:31:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function urlencoded() in /home/ubuntu/workspace/inutilidades/pagina31.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/inutilidades/pagina31.php on line 29
+[25-Sep-2018 10:24:42 UTC] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/primerosejemplos/pagina41.php on line 16
+[25-Sep-2018 10:34:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/primerosejemplos/pagina41.php on line 17
+[25-Sep-2018 10:38:54 UTC] PHP Notice:  Undefined index: query in /home/ubuntu/workspace/primerosejemplos/pagina41.php on line 9
+[25-Sep-2018 14:15:09 UTC] PHP Notice:  Undefined variable: partes in /home/ubuntu/workspace/primerosejemplos/pagina41.php on line 12
+[25-Sep-2018 14:21:10 UTC] PHP Notice:  Undefined offset: 1 in /home/ubuntu/workspace/primerosejemplos/pagina41.php on line 18
+[26-Sep-2018 15:56:54 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home/ubuntu/workspace/primerosejemplos/classes/Reader.php on line 19
+[27-Sep-2018 06:57:39 UTC] PHP Notice:  Undefined variable: array1 in /home/ubuntu/workspace/primerosejemplos/pagina5.php on line 15
+[27-Sep-2018 06:58:05 UTC] PHP Notice:  Undefined variable: array1 in /home/ubuntu/workspace/primerosejemplos/pagina5.php on line 15
+[27-Sep-2018 06:59:03 UTC] PHP Notice:  Undefined variable: array1 in /home/ubuntu/workspace/primerosejemplos/pagina5.php on line 15
+[27-Sep-2018 07:28:39 UTC] PHP Notice:  Undefined offset: 5 in /home/ubuntu/workspace/primerosejemplos/pagina5.php on line 22
+[27-Sep-2018 07:29:10 UTC] PHP Notice:  Undefined offset: 4 in /home/ubuntu/workspace/primerosejemplos/pagina5.php on line 22
+[27-Sep-2018 07:29:17 UTC] PHP Notice:  Undefined offset: 4 in /home/ubuntu/workspace/primerosejemplos/pagina5.php on line 22
+[27-Sep-2018 20:05:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Alumno' not found in /home/ubuntu/workspace/primerosejemplos/pagina6.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/primerosejemplos/pagina6.php on line 5
+[27-Sep-2018 20:05:28 UTC] PHP Warning:  require(../Alumno.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/primerosejemplos/pagina6.php on line 3
+[27-Sep-2018 20:05:28 UTC] PHP Fatal error:  require(): Failed opening required '../Alumno.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/primerosejemplos/pagina6.php on line 3
+[27-Sep-2018 20:06:01 UTC] PHP Warning:  require(clases/Alumno.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/primerosejemplos/pagina6.php on line 3
+[27-Sep-2018 20:06:01 UTC] PHP Fatal error:  require(): Failed opening required 'clases/Alumno.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/primerosejemplos/pagina6.php on line 3
+[27-Sep-2018 20:09:53 UTC] PHP Warning:  Missing argument 1 for Alumno::setTelefono(), called in /home/ubuntu/workspace/primerosejemplos/pagina6.php on line 27 and defined in /home/ubuntu/workspace/primerosejemplos/classes/Alumno.php on line 75
+[27-Sep-2018 20:09:53 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ubuntu/workspace/primerosejemplos/classes/Alumno.php:76
+Stack trace:
+#0 /home/ubuntu/workspace/primerosejemplos/pagina6.php(27): Alumno::setTelefono()
+#1 {main}
+  thrown in /home/ubuntu/workspace/primerosejemplos/classes/Alumno.php on line 76
+[27-Sep-2018 20:10:09 UTC] PHP Parse error:  syntax error, unexpected ''metodo'' (T_CONSTANT_ENCAPSED_STRING) in /home/ubuntu/workspace/primerosejemplos/pagina6.php on line 27
+[27-Sep-2018 20:12:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function metodo() on string in /home/ubuntu/workspace/primerosejemplos/pagina6.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/primerosejemplos/pagina6.php on line 29
+[28-Sep-2018 10:40:36 UTC] PHP Fatal error:  Trait 'Comun' not found in /home/ubuntu/workspace/primerosejemplos/classes/Alumno.php on line 5
+[28-Sep-2018 10:41:02 UTC] PHP Parse error:  syntax error, unexpected '$p' (T_VARIABLE) in /home/ubuntu/workspace/primerosejemplos/pagina6.php on line 8
+[28-Sep-2018 10:41:18 UTC] PHP Fatal error:  Trait 'Comun' not found in /home/ubuntu/workspace/primerosejemplos/classes/Alumno.php on line 5
+[28-Sep-2018 10:42:24 UTC] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE), expecting function (T_FUNCTION) in /home/ubuntu/workspace/primerosejemplos/classes/Alumno.php on line 5
+[28-Sep-2018 10:43:18 UTC] PHP Fatal error:  Cannot declare trait Comun, because the name is already in use in /home/ubuntu/workspace/primerosejemplos/classes/Comun.php on line 3
+[03-Oct-2018 10:54:23 UTC] PHP Fatal error:  Trait 'Comun' not found in /home/ubuntu/workspace/primerosejemplos/classes/Alumno.php on line 5
+[03-Oct-2018 11:54:59 UTC] PHP Notice:  Undefined variable: contador in /home/ubuntu/workspace/primerosejemplos/classes/Producto.php on line 14
+[03-Oct-2018 11:54:59 UTC] PHP Notice:  Undefined variable: contador in /home/ubuntu/workspace/primerosejemplos/classes/Producto.php on line 18
+[03-Oct-2018 11:54:59 UTC] PHP Notice:  Undefined variable: contador in /home/ubuntu/workspace/primerosejemplos/classes/Producto.php on line 22
+[03-Oct-2018 11:54:59 UTC] PHP Notice:  Undefined variable: contador in /home/ubuntu/workspace/primerosejemplos/classes/Producto.php on line 18
+[03-Oct-2018 12:23:32 UTC] PHP Fatal error:  Interface 'Readable' not found in /home/ubuntu/workspace/primerosejemplos/classes/AlumnoReadable.php on line 3
+[04-Oct-2018 07:37:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Producto' not found in /home/ubuntu/workspace/segundosejemplos/ejemplo1.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/segundosejemplos/ejemplo1.php on line 5
+[04-Oct-2018 07:38:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Producto' not found in /home/ubuntu/workspace/segundosejemplos/ejemplo1.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/segundosejemplos/ejemplo1.php on line 6
+[04-Oct-2018 07:42:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Producto' not found in /home/ubuntu/workspace/segundosejemplos/ejemplo1.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/segundosejemplos/ejemplo1.php on line 8
+[04-Oct-2018 07:43:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Producto' not found in /home/ubuntu/workspace/segundosejemplos/ejemplo1.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/segundosejemplos/ejemplo1.php on line 8
+[04-Oct-2018 07:48:11 UTC] PHP Fatal error:  Uncaught Error: Class 'izvdwes\data\Producto' not found in /home/ubuntu/workspace/segundosejemplos/ejemplo1.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/segundosejemplos/ejemplo1.php on line 9
+[04-Oct-2018 07:48:54 UTC] PHP Fatal error:  Uncaught Error: Class 'izvdwes\data\Producto' not found in /home/ubuntu/workspace/segundosejemplos/ejemplo1.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/segundosejemplos/ejemplo1.php on line 9
+[04-Oct-2018 07:52:23 UTC] PHP Parse error:  syntax error, unexpected '*', expecting identifier (T_STRING) or '{' in /home/ubuntu/workspace/segundosejemplos/ejemplo1.php on line 6
+[04-Oct-2018 07:53:21 UTC] PHP Fatal error:  Trait 'izvdwes\data\Comun' not found in /home/ubuntu/workspace/segundosejemplos/classes/izvdwes/data/Alumno.php on line 7
+[04-Oct-2018 07:54:21 UTC] PHP Fatal error:  Trait 'izvdwes\data\izvdwes\common\Comun' not found in /home/ubuntu/workspace/segundosejemplos/classes/izvdwes/data/Alumno.php on line 7
+[04-Oct-2018 07:55:59 UTC] PHP Parse error:  syntax error, unexpected '.', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/ubuntu/workspace/segundosejemplos/classes/izvdwes/data/Alumno.php on line 7
+[04-Oct-2018 07:56:25 UTC] PHP Fatal error:  Trait 'izvdwes\data\common\Comun' not found in /home/ubuntu/workspace/segundosejemplos/classes/izvdwes/data/Alumno.php on line 7
+[05-Oct-2018 10:32:46 UTC] PHP Warning:  move_uploaded_file(upload/aqui): failed to open stream: No such file or directory in /home/ubuntu/workspace/primerosejemplos/pagina9.php on line 8
+[05-Oct-2018 10:32:46 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpvQab07' to 'upload/aqui' in /home/ubuntu/workspace/primerosejemplos/pagina9.php on line 8
+[05-Oct-2018 10:37:10 UTC] PHP Warning:  mime_content_type(archivo): failed to open stream: No such file or directory in /home/ubuntu/workspace/primerosejemplos/pagina9.php on line 9
+[05-Oct-2018 10:37:32 UTC] PHP Warning:  mime_content_type(tmp_name): failed to open stream: No such file or directory in /home/ubuntu/workspace/primerosejemplos/pagina9.php on line 9
+[05-Oct-2018 10:38:09 UTC] PHP Warning:  mime_content_type(tmp_name): failed to open stream: No such file or directory in /home/ubuntu/workspace/primerosejemplos/pagina9.php on line 9
+[05-Oct-2018 10:40:00 UTC] PHP Warning:  mime_content_type(tmp_name): failed to open stream: No such file or directory in /home/ubuntu/workspace/primerosejemplos/pagina9.php on line 9
+[05-Oct-2018 10:40:57 UTC] PHP Notice:  Undefined offset: 0 in /home/ubuntu/workspace/primerosejemplos/pagina9.php on line 10
+[05-Oct-2018 10:40:57 UTC] PHP Warning:  mime_content_type(): Can only process string or stream arguments in /home/ubuntu/workspace/primerosejemplos/pagina9.php on line 10
+[05-Oct-2018 10:44:48 UTC] PHP Notice:  Undefined index: archivo in /home/ubuntu/workspace/primerosejemplos/pagina9.php on line 7
+[05-Oct-2018 10:44:48 UTC] PHP Notice:  Undefined index: archivo in /home/ubuntu/workspace/primerosejemplos/pagina9.php on line 8
+[05-Oct-2018 10:44:57 UTC] PHP Notice:  Undefined index: archivo in /home/ubuntu/workspace/primerosejemplos/pagina9.php on line 7
+[05-Oct-2018 10:44:57 UTC] PHP Notice:  Undefined index: archivo in /home/ubuntu/workspace/primerosejemplos/pagina9.php on line 8
+[09-Oct-2018 09:03:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Upload' not found in /home/ubuntu/workspace/primerosejemplos/pagina9.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/primerosejemplos/pagina9.php on line 7
+[09-Oct-2018 09:06:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Upload' not found in /home/ubuntu/workspace/primerosejemplos/pagina9.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/primerosejemplos/pagina9.php on line 7
+[09-Oct-2018 15:03:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Upload' not found in /home/ubuntu/workspace/primerosejemplos/pagina9.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/primerosejemplos/pagina9.php on line 7
+[09-Oct-2018 15:04:20 UTC] PHP Notice:  Undefined property: Upload::$size in /home/ubuntu/workspace/primerosejemplos/classes/Upload.php on line 15
+[09-Oct-2018 15:04:20 UTC] PHP Notice:  Undefined property: Upload::$policy in /home/ubuntu/workspace/primerosejemplos/classes/Upload.php on line 16
+[09-Oct-2018 15:04:20 UTC] PHP Notice:  Undefined property: Upload::$target in /home/ubuntu/workspace/primerosejemplos/classes/Upload.php on line 17
+[09-Oct-2018 15:04:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function file_exist() in /home/ubuntu/workspace/primerosejemplos/classes/Upload.php:56
+Stack trace:
+#0 /home/ubuntu/workspace/primerosejemplos/pagina9.php(8): Upload->upload()
+#1 {main}
+  thrown in /home/ubuntu/workspace/primerosejemplos/classes/Upload.php on line 56
+[09-Oct-2018 15:04:22 UTC] PHP Notice:  Undefined property: Upload::$size in /home/ubuntu/workspace/primerosejemplos/classes/Upload.php on line 15
+[09-Oct-2018 15:04:22 UTC] PHP Notice:  Undefined property: Upload::$policy in /home/ubuntu/workspace/primerosejemplos/classes/Upload.php on line 16
+[09-Oct-2018 15:04:22 UTC] PHP Notice:  Undefined property: Upload::$target in /home/ubuntu/workspace/primerosejemplos/classes/Upload.php on line 17
+[09-Oct-2018 15:04:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function file_exist() in /home/ubuntu/workspace/primerosejemplos/classes/Upload.php:56
+Stack trace:
+#0 /home/ubuntu/workspace/primerosejemplos/pagina9.php(8): Upload->upload()
+#1 {main}
+  thrown in /home/ubuntu/workspace/primerosejemplos/classes/Upload.php on line 56
+[09-Oct-2018 15:06:18 UTC] PHP Notice:  Undefined property: Upload::$size in /home/ubuntu/workspace/primerosejemplos/classes/Upload.php on line 15
+[09-Oct-2018 15:06:18 UTC] PHP Notice:  Undefined property: Upload::$policy in /home/ubuntu/workspace/primerosejemplos/classes/Upload.php on line 16
+[09-Oct-2018 15:06:18 UTC] PHP Notice:  Undefined property: Upload::$target in /home/ubuntu/workspace/primerosejemplos/classes/Upload.php on line 17
+[09-Oct-2018 15:06:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function file_exist() in /home/ubuntu/workspace/primerosejemplos/classes/Upload.php:56
+Stack trace:
+#0 /home/ubuntu/workspace/primerosejemplos/pagina9.php(8): Upload->upload()
+#1 {main}
+  thrown in /home/ubuntu/workspace/primerosejemplos/classes/Upload.php on line 56
+[09-Oct-2018 15:06:22 UTC] PHP Notice:  Undefined property: Upload::$size in /home/ubuntu/workspace/primerosejemplos/classes/Upload.php on line 15
+[09-Oct-2018 15:06:22 UTC] PHP Notice:  Undefined property: Upload::$policy in /home/ubuntu/workspace/primerosejemplos/classes/Upload.php on line 16
+[09-Oct-2018 15:06:22 UTC] PHP Notice:  Undefined property: Upload::$target in /home/ubuntu/workspace/primerosejemplos/classes/Upload.php on line 17
+[09-Oct-2018 15:06:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function file_exist() in /home/ubuntu/workspace/primerosejemplos/classes/Upload.php:56
+Stack trace:
+#0 /home/ubuntu/workspace/primerosejemplos/pagina9.php(8): Upload->upload()
+#1 {main}
+  thrown in /home/ubuntu/workspace/primerosejemplos/classes/Upload.php on line 56
+[09-Oct-2018 15:09:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function file_exist() in /home/ubuntu/workspace/primerosejemplos/classes/Upload.php:56
+Stack trace:
+#0 /home/ubuntu/workspace/primerosejemplos/pagina9.php(8): Upload->upload()
+#1 {main}
+  thrown in /home/ubuntu/workspace/primerosejemplos/classes/Upload.php on line 56
+[09-Oct-2018 15:10:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function file_exist() in /home/ubuntu/workspace/primerosejemplos/classes/Upload.php:56
+Stack trace:
+#0 /home/ubuntu/workspace/primerosejemplos/pagina9.php(8): Upload->upload()
+#1 {main}
+  thrown in /home/ubuntu/workspace/primerosejemplos/classes/Upload.php on line 56
+[09-Oct-2018 17:21:25 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/ubuntu/workspace/primerosejemplos/classes/Upload.php on line 55
+[09-Oct-2018 17:23:08 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/ubuntu/workspace/primerosejemplos/classes/Upload.php on line 55
+[09-Oct-2018 17:23:13 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/ubuntu/workspace/primerosejemplos/classes/Upload.php on line 55
+[09-Oct-2018 17:23:31 UTC] PHP Warning:  Illegal offset type in /home/ubuntu/workspace/primerosejemplos/classes/Upload.php on line 52
+[09-Oct-2018 17:23:31 UTC] PHP Warning:  Illegal offset type in /home/ubuntu/workspace/primerosejemplos/classes/Upload.php on line 55
+[09-Oct-2018 17:32:45 UTC] PHP Warning:  Illegal offset type in /home/ubuntu/workspace/primerosejemplos/classes/Upload.php on line 52
+[09-Oct-2018 17:32:45 UTC] PHP Warning:  Illegal offset type in /home/ubuntu/workspace/primerosejemplos/classes/Upload.php on line 55
+[09-Oct-2018 17:33:45 UTC] PHP Warning:  Illegal offset type in /home/ubuntu/workspace/primerosejemplos/classes/Upload.php on line 52
+[09-Oct-2018 17:33:45 UTC] PHP Warning:  Illegal offset type in /home/ubuntu/workspace/primerosejemplos/classes/Upload.php on line 55
+[09-Oct-2018 17:36:41 UTC] PHP Warning:  Illegal offset type in /home/ubuntu/workspace/primerosejemplos/classes/Upload.php on line 52
+[09-Oct-2018 17:36:41 UTC] PHP Warning:  Illegal offset type in /home/ubuntu/workspace/primerosejemplos/classes/Upload.php on line 55
+[09-Oct-2018 17:37:21 UTC] PHP Warning:  Illegal offset type in /home/ubuntu/workspace/primerosejemplos/classes/Upload.php on line 52
+[09-Oct-2018 17:37:21 UTC] PHP Warning:  Illegal offset type in /home/ubuntu/workspace/primerosejemplos/classes/Upload.php on line 55
+[09-Oct-2018 17:37:23 UTC] PHP Warning:  Illegal offset type in /home/ubuntu/workspace/primerosejemplos/classes/Upload.php on line 52
+[09-Oct-2018 17:37:23 UTC] PHP Warning:  Illegal offset type in /home/ubuntu/workspace/primerosejemplos/classes/Upload.php on line 55
+[09-Oct-2018 17:39:28 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/ubuntu/workspace/primerosejemplos/classes/Upload.php on line 57
+[09-Oct-2018 17:43:01 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ubuntu/workspace/primerosejemplos/classes/Upload.php on line 84
+[09-Oct-2018 17:43:17 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ubuntu/workspace/primerosejemplos/classes/Upload.php on line 75
+[09-Oct-2018 17:44:15 UTC] PHP Warning:  Illegal offset type in /home/ubuntu/workspace/primerosejemplos/classes/Upload.php on line 55
+[11-Oct-2018 07:17:00 UTC] PHP Warning:  require(classes/UploadMultiple.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/primerosejemplos/pagina10.php on line 5
+[11-Oct-2018 07:17:00 UTC] PHP Fatal error:  require(): Failed opening required 'classes/UploadMultiple.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/primerosejemplos/pagina10.php on line 5
+[15-Oct-2018 16:38:47 UTC] PHP Warning:  require(classes/UploadMultiple.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/primerosejemplos/pagina10.php on line 5
+[15-Oct-2018 16:38:47 UTC] PHP Fatal error:  require(): Failed opening required 'classes/UploadMultiple.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/primerosejemplos/pagina10.php on line 5
+[15-Oct-2018 17:36:33 UTC] PHP Warning:  require(classes/UploadMultiple.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/primerosejemplos/pagina10.php on line 5
+[15-Oct-2018 17:36:33 UTC] PHP Fatal error:  require(): Failed opening required 'classes/UploadMultiple.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/primerosejemplos/pagina10.php on line 5
+[15-Oct-2018 19:01:29 UTC] PHP Warning:  require(classes/UploadMultiple.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/primerosejemplos/pagina10.php on line 5
+[15-Oct-2018 19:01:29 UTC] PHP Fatal error:  require(): Failed opening required 'classes/UploadMultiple.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/primerosejemplos/pagina10.php on line 5
+[15-Oct-2018 19:02:29 UTC] PHP Fatal error:  Uncaught Error: Class 'UploadMultiple' not found in /home/ubuntu/workspace/primerosejemplos/pagina10.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/primerosejemplos/pagina10.php on line 6
+[15-Oct-2018 19:03:07 UTC] PHP Fatal error:  Uncaught Error: Class 'UploadMultiple' not found in /home/ubuntu/workspace/primerosejemplos/pagina10.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/primerosejemplos/pagina10.php on line 6
+[15-Oct-2018 19:03:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Multiupload' not found in /home/ubuntu/workspace/primerosejemplos/pagina10.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/primerosejemplos/pagina10.php on line 6
+[15-Oct-2018 19:04:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Multiupload' not found in /home/ubuntu/workspace/primerosejemplos/pagina10.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/primerosejemplos/pagina10.php on line 6
+[15-Oct-2018 19:05:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Multiupload' not found in /home/ubuntu/workspace/primerosejemplos/pagina10.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/primerosejemplos/pagina10.php on line 6
+[15-Oct-2018 19:06:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Multiupload' not found in /home/ubuntu/workspace/primerosejemplos/pagina10.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/primerosejemplos/pagina10.php on line 6
+[15-Oct-2018 19:06:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Multiupload' not found in /home/ubuntu/workspace/primerosejemplos/pagina10.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/primerosejemplos/pagina10.php on line 6
+[15-Oct-2018 19:07:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Multiupload' not found in /home/ubuntu/workspace/primerosejemplos/pagina10.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/primerosejemplos/pagina10.php on line 6
+[15-Oct-2018 19:07:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Multiupload' not found in /home/ubuntu/workspace/primerosejemplos/pagina10.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/primerosejemplos/pagina10.php on line 6
+[15-Oct-2018 19:07:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Multiupload' not found in /home/ubuntu/workspace/primerosejemplos/pagina10.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/primerosejemplos/pagina10.php on line 6
+[15-Oct-2018 19:10:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Multiupload' not found in /home/ubuntu/workspace/primerosejemplos/pagina10.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/primerosejemplos/pagina10.php on line 6
+[15-Oct-2018 19:10:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Multiupload' not found in /home/ubuntu/workspace/primerosejemplos/pagina10.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/primerosejemplos/pagina10.php on line 6
+[15-Oct-2018 19:12:31 UTC] PHP Warning:  require(../classes/Multiupload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/primerosejemplos/pagina10.php on line 5
+[15-Oct-2018 19:12:31 UTC] PHP Fatal error:  require(): Failed opening required '../classes/Multiupload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/primerosejemplos/pagina10.php on line 5
+[15-Oct-2018 19:13:00 UTC] PHP Warning:  require(clases/Multiupload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/primerosejemplos/pagina10.php on line 5
+[15-Oct-2018 19:13:00 UTC] PHP Fatal error:  require(): Failed opening required 'clases/Multiupload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/primerosejemplos/pagina10.php on line 5
+[15-Oct-2018 19:13:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Multiupload' not found in /home/ubuntu/workspace/primerosejemplos/pagina10.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/primerosejemplos/pagina10.php on line 6
+[15-Oct-2018 19:14:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Multiupload' not found in /home/ubuntu/workspace/primerosejemplos/pagina10.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/primerosejemplos/pagina10.php on line 6
+[15-Oct-2018 19:15:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function checkArray() in /home/ubuntu/workspace/primerosejemplos/classes/Multiupload.php:38
+Stack trace:
+#0 /home/ubuntu/workspace/primerosejemplos/pagina10.php(6): Multiupload->__construct('archivos0')
+#1 {main}
+  thrown in /home/ubuntu/workspace/primerosejemplos/classes/Multiupload.php on line 38
+[15-Oct-2018 19:16:21 UTC] PHP Notice:  Undefined property: Multiupload::$file in /home/ubuntu/workspace/primerosejemplos/classes/Multiupload.php on line 200
+[15-Oct-2018 19:18:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getError() on boolean in /home/ubuntu/workspace/primerosejemplos/pagina10.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/primerosejemplos/pagina10.php on line 8
+[15-Oct-2018 19:21:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getError() on boolean in /home/ubuntu/workspace/primerosejemplos/pagina10.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/primerosejemplos/pagina10.php on line 8
+[16-Oct-2018 09:56:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getError() on boolean in /home/ubuntu/workspace/primerosejemplos/pagina10.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/primerosejemplos/pagina10.php on line 8
+[18-Oct-2018 07:05:55 UTC] PHP Notice:  Undefined variable: usuario in /home/ubuntu/workspace/primerosejemplos/classes/Database.php on line 34
+[18-Oct-2018 07:05:55 UTC] PHP Notice:  Undefined variable: clave in /home/ubuntu/workspace/primerosejemplos/classes/Database.php on line 35
+[18-Oct-2018 07:08:43 UTC] PHP Notice:  Undefined variable: usuario in /home/ubuntu/workspace/primerosejemplos/classes/Database.php on line 34
+[18-Oct-2018 07:08:43 UTC] PHP Notice:  Undefined variable: clave in /home/ubuntu/workspace/primerosejemplos/classes/Database.php on line 35
+[18-Oct-2018 07:08:45 UTC] PHP Notice:  Undefined variable: usuario in /home/ubuntu/workspace/primerosejemplos/classes/Database.php on line 34
+[18-Oct-2018 07:08:45 UTC] PHP Notice:  Undefined variable: clave in /home/ubuntu/workspace/primerosejemplos/classes/Database.php on line 35
+[18-Oct-2018 07:08:47 UTC] PHP Notice:  Undefined variable: usuario in /home/ubuntu/workspace/primerosejemplos/classes/Database.php on line 34
+[18-Oct-2018 07:08:47 UTC] PHP Notice:  Undefined variable: clave in /home/ubuntu/workspace/primerosejemplos/classes/Database.php on line 35
+[18-Oct-2018 07:09:17 UTC] PHP Notice:  Undefined variable: conexion in /home/ubuntu/workspace/primerosejemplos/pagina12.php on line 13
+[18-Oct-2018 07:09:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ubuntu/workspace/primerosejemplos/pagina12.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/primerosejemplos/pagina12.php on line 13
+[18-Oct-2018 07:17:27 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ubuntu/workspace/primerosejemplos/pagina12.php on line 22
+[18-Oct-2018 07:17:28 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ubuntu/workspace/primerosejemplos/pagina12.php on line 22
+[18-Oct-2018 07:17:58 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ubuntu/workspace/primerosejemplos/pagina12.php on line 22
+[18-Oct-2018 07:36:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/primerosejemplos/pagina12alta.php on line 9
+[18-Oct-2018 07:53:32 UTC] PHP Warning:  Missing argument 1 for Producto::setId(), called in /home/ubuntu/workspace/primerosejemplos/pagina12alta.php on line 22 and defined in /home/ubuntu/workspace/primerosejemplos/classes/Producto.php on line 32
+[18-Oct-2018 07:53:32 UTC] PHP Notice:  Undefined variable: id in /home/ubuntu/workspace/primerosejemplos/classes/Producto.php on line 33
+[20-Oct-2018 11:19:36 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/primerosejemplos/classes/Multiupload.php on line 40
+[20-Oct-2018 11:23:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Multiupload::error() in /home/ubuntu/workspace/primerosejemplos/classes/Multiupload.php:197
+Stack trace:
+#0 /home/ubuntu/workspace/primerosejemplos/pagina10.php(7): Multiupload->upload()
+#1 {main}
+  thrown in /home/ubuntu/workspace/primerosejemplos/classes/Multiupload.php on line 197
+[20-Oct-2018 11:26:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Multiupload::error() in /home/ubuntu/workspace/primerosejemplos/classes/Multiupload.php:197
+Stack trace:
+#0 /home/ubuntu/workspace/primerosejemplos/pagina10.php(7): Multiupload->upload()
+#1 {main}
+  thrown in /home/ubuntu/workspace/primerosejemplos/classes/Multiupload.php on line 197
+[20-Oct-2018 11:27:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Multiupload::error() in /home/ubuntu/workspace/primerosejemplos/classes/Multiupload.php:197
+Stack trace:
+#0 /home/ubuntu/workspace/primerosejemplos/pagina10.php(7): Multiupload->upload()
+#1 {main}
+  thrown in /home/ubuntu/workspace/primerosejemplos/classes/Multiupload.php on line 197
+[20-Oct-2018 11:30:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Multiupload::error() in /home/ubuntu/workspace/primerosejemplos/classes/Multiupload.php:197
+Stack trace:
+#0 /home/ubuntu/workspace/primerosejemplos/pagina10.php(7): Multiupload->upload()
+#1 {main}
+  thrown in /home/ubuntu/workspace/primerosejemplos/classes/Multiupload.php on line 197
+[20-Oct-2018 11:30:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Multiupload' not found in /home/ubuntu/workspace/primerosejemplos/pagina10.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/primerosejemplos/pagina10.php on line 6
+[20-Oct-2018 11:33:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Multiupload::error() in /home/ubuntu/workspace/primerosejemplos/classes/Multiupload.php:197
+Stack trace:
+#0 /home/ubuntu/workspace/primerosejemplos/pagina10.php(7): Multiupload->upload()
+#1 {main}
+  thrown in /home/ubuntu/workspace/primerosejemplos/classes/Multiupload.php on line 197
+[20-Oct-2018 11:34:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Multiupload::error() in /home/ubuntu/workspace/primerosejemplos/classes/Multiupload.php:197
+Stack trace:
+#0 /home/ubuntu/workspace/primerosejemplos/pagina10.php(7): Multiupload->upload()
+#1 {main}
+  thrown in /home/ubuntu/workspace/primerosejemplos/classes/Multiupload.php on line 197
+[06-Nov-2018 11:03:55 UTC] PHP Parse error:  syntax error, unexpected 'session_start' (T_STRING) in /home/ubuntu/workspace/primerosejemplos/pagina16.php on line 4
+[06-Nov-2018 19:01:25 UTC] PHP Notice:  Undefined index: password in /home/ubuntu/workspace/primerosejemplos/classes/Session.php on line 31
+[06-Nov-2018 19:01:45 UTC] PHP Notice:  Undefined index: password in /home/ubuntu/workspace/primerosejemplos/classes/Session.php on line 31
+[06-Nov-2018 19:02:09 UTC] PHP Notice:  Undefined index: password in /home/ubuntu/workspace/primerosejemplos/classes/Session.php on line 31
+[08-Nov-2018 07:56:46 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/primerosejemplos/pagina17.php on line 9
+[08-Nov-2018 07:57:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/primerosejemplos/pagina17.php on line 9
+[08-Nov-2018 07:57:05 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ubuntu/workspace/primerosejemplos/pagina17.php on line 9
+[08-Nov-2018 08:03:36 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/primerosejemplos/pagina17.php on line 22
+[08-Nov-2018 08:06:45 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ubuntu/workspace/primerosejemplos/pagina17.php on line 10
+[25-Nov-2018 18:42:14 UTC] PHP Parse error:  syntax error, unexpected '/', expecting variable (T_VARIABLE) in /home/ubuntu/workspace/proyecto/classes/izv/tools/Session.php on line 49
+[25-Nov-2018 18:42:19 UTC] PHP Parse error:  syntax error, unexpected '/', expecting variable (T_VARIABLE) in /home/ubuntu/workspace/proyecto/classes/izv/tools/Session.php on line 49
+[25-Nov-2018 18:45:00 UTC] PHP Parse error:  syntax error, unexpected '/', expecting variable (T_VARIABLE) in /home/ubuntu/workspace/proyecto/classes/izv/tools/Session.php on line 50
+[26-Nov-2018 07:45:33 UTC] PHP Notice:  Undefined variable: alert in /home/ubuntu/workspace/proyecto/index.php on line 97
+[26-Nov-2018 07:45:33 UTC] PHP Notice:  Undefined variable: usuarios in /home/ubuntu/workspace/proyecto/index.php on line 119
+[26-Nov-2018 07:45:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/proyecto/index.php on line 119
+[26-Nov-2018 07:47:00 UTC] PHP Notice:  Undefined variable: alert in /home/ubuntu/workspace/proyecto/index.php on line 97
+[26-Nov-2018 07:47:00 UTC] PHP Notice:  Undefined variable: usuarios in /home/ubuntu/workspace/proyecto/index.php on line 116
+[26-Nov-2018 07:47:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/proyecto/index.php on line 116
+[26-Nov-2018 07:47:27 UTC] PHP Notice:  Undefined variable: alert in /home/ubuntu/workspace/proyecto/index.php on line 97
+[26-Nov-2018 07:47:27 UTC] PHP Notice:  Undefined variable: usuarios in /home/ubuntu/workspace/proyecto/index.php on line 116
+[26-Nov-2018 07:47:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/proyecto/index.php on line 116
+[26-Nov-2018 07:50:22 UTC] PHP Notice:  Undefined variable: alert in /home/ubuntu/workspace/proyecto/index.php on line 97
+[26-Nov-2018 07:50:22 UTC] PHP Notice:  Undefined variable: usuarios in /home/ubuntu/workspace/proyecto/index.php on line 116
+[26-Nov-2018 07:50:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/proyecto/index.php on line 116
+[26-Nov-2018 07:50:25 UTC] PHP Notice:  Undefined variable: alert in /home/ubuntu/workspace/proyecto/index.php on line 97
+[26-Nov-2018 07:50:25 UTC] PHP Notice:  Undefined variable: usuarios in /home/ubuntu/workspace/proyecto/index.php on line 116
+[26-Nov-2018 07:50:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/proyecto/index.php on line 116
+[26-Nov-2018 07:50:27 UTC] PHP Notice:  Undefined variable: alert in /home/ubuntu/workspace/proyecto/index.php on line 97
+[26-Nov-2018 07:50:27 UTC] PHP Notice:  Undefined variable: usuarios in /home/ubuntu/workspace/proyecto/index.php on line 116
+[26-Nov-2018 07:50:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/proyecto/index.php on line 116
+[26-Nov-2018 07:50:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/ubuntu/workspace/proyecto/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/proyecto/index.php on line 9
+[26-Nov-2018 07:51:13 UTC] PHP Fatal error:  Cannot use izv\tools\Alert as Alert because the name is already in use in /home/ubuntu/workspace/proyecto/index.php on line 10
+[26-Nov-2018 07:51:23 UTC] PHP Fatal error:  Uncaught Error: Class 'ManageUsuario' not found in /home/ubuntu/workspace/proyecto/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/proyecto/index.php on line 14
+[26-Nov-2018 07:51:36 UTC] PHP Notice:  Undefined variable: alert in /home/ubuntu/workspace/proyecto/index.php on line 107
+[26-Nov-2018 07:54:10 UTC] PHP Notice:  Undefined variable: alert in /home/ubuntu/workspace/proyecto/index.php on line 107
+[26-Nov-2018 07:55:16 UTC] PHP Notice:  Undefined variable: alert in /home/ubuntu/workspace/proyecto/index.php on line 107
+[26-Nov-2018 07:55:44 UTC] PHP Notice:  Undefined variable: alert in /home/ubuntu/workspace/proyecto/index.php on line 107
+[26-Nov-2018 07:55:46 UTC] PHP Notice:  Undefined variable: alert in /home/ubuntu/workspace/proyecto/index.php on line 107
+[26-Nov-2018 07:55:47 UTC] PHP Notice:  Undefined variable: alert in /home/ubuntu/workspace/proyecto/index.php on line 107
+[26-Nov-2018 07:57:02 UTC] PHP Notice:  Undefined variable: alert in /home/ubuntu/workspace/proyecto/index.php on line 107
+[26-Nov-2018 11:18:42 UTC] PHP Notice:  Undefined offset: 1 in /home/ubuntu/workspace/proyecto/classes/izv/tools/Alert.php on line 57
+[26-Nov-2018 11:18:42 UTC] PHP Notice:  Undefined offset: 1 in /home/ubuntu/workspace/proyecto/classes/izv/tools/Alert.php on line 57
+[26-Nov-2018 11:18:46 UTC] PHP Notice:  Undefined offset: 1 in /home/ubuntu/workspace/proyecto/classes/izv/tools/Alert.php on line 57
+[26-Nov-2018 11:18:46 UTC] PHP Notice:  Undefined offset: 1 in /home/ubuntu/workspace/proyecto/classes/izv/tools/Alert.php on line 57
+[26-Nov-2018 11:18:50 UTC] PHP Notice:  Undefined offset: 1 in /home/ubuntu/workspace/proyecto/classes/izv/tools/Alert.php on line 57
+[26-Nov-2018 11:18:50 UTC] PHP Notice:  Undefined offset: 1 in /home/ubuntu/workspace/proyecto/classes/izv/tools/Alert.php on line 57
+[26-Nov-2018 11:18:58 UTC] PHP Notice:  Undefined offset: 1 in /home/ubuntu/workspace/proyecto/classes/izv/tools/Alert.php on line 57
+[26-Nov-2018 11:18:58 UTC] PHP Notice:  Undefined offset: 1 in /home/ubuntu/workspace/proyecto/classes/izv/tools/Alert.php on line 57
+[26-Nov-2018 11:26:49 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/proyecto/index.php on line 130
+[26-Nov-2018 11:33:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/proyecto/index.php on line 221
+[26-Nov-2018 11:34:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/proyecto/index.php on line 219
+[26-Nov-2018 11:35:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/proyecto/index.php on line 221
+[26-Nov-2018 11:35:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/proyecto/index.php on line 215
+[26-Nov-2018 13:23:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAdmin() on null in /home/ubuntu/workspace/proyecto/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/proyecto/index.php on line 22
+[26-Nov-2018 13:30:33 UTC] PHP Notice:  Undefined variable: usuario in /home/ubuntu/workspace/proyecto/index.php on line 126
+[26-Nov-2018 13:30:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAdmin() on null in /home/ubuntu/workspace/proyecto/index.php:126
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/proyecto/index.php on line 126
+[28-Nov-2018 16:34:35 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ubuntu/workspace/proyecto/index.php on line 199
+[28-Nov-2018 16:36:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAdmin() on null in /home/ubuntu/workspace/proyecto/index.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/proyecto/index.php on line 111
+[28-Nov-2018 17:48:11 UTC] PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php/sessions) failed: Permission denied (13) in /home/ubuntu/workspace/proyecto/classes/izv/tools/Session.php on line 16
+[05-Dec-2018 13:00:04 UTC] PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php/sessions) failed: Permission denied (13) in /home/ubuntu/workspace/proyecto/classes/izv/tools/Session.php on line 16

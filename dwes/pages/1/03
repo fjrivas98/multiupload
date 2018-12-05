@@ -1,0 +1,12 @@
+<h3>Instalar php 7</h3>
+<div>
+Es opcional, PHP Version 5.5.9-1ubuntu4.22.
+</div>
+<div>
+    <a href="https://github.com/imanseau/Cloud9-PHP7-Upgrade" target="dwes">https://github.com/imanseau/Cloud9-PHP7-Upgrade</a>
+</div>
+<ol>
+    <li><small>wget https://raw.githubusercontent.com/imanseau/Cloud9-PHP7-Upgrade/master/cloud9-php7-upgrade.sh</small></li>
+    <li><small>sudo chmod +x cloud9-php7-upgrade.sh</small></li>
+    <li><small>./cloud9-php7-upgrade.sh</small></li>
+</ol>

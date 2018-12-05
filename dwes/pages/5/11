@@ -1,0 +1,9 @@
+<div align="left">
+    submit: A button that submits the form.
+    <hr>
+    tel: A control for entering a telephone number.
+    <hr>
+    text: A single-line text field.
+    <hr>
+    time: A control for entering a time value with no time zone.
+</div>

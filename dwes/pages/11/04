@@ -1,0 +1,6 @@
+<h2 class="normal">Borrar una cookie</h2>
+<div align="left">
+    <code class="smaller">
+    setcookie('usuario', '', time() - 60 * 60);
+    </code>
+</div>

@@ -1,0 +1,6 @@
+<h3>Habilitar los errores</h3>
+<div>
+    php.ini: display_errors = On
+    <br>
+    (línea 530, aproximadamente)
+</div>

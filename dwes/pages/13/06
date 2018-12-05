@@ -1,0 +1,9 @@
+<h2>Security issues</h2>
+<p align="left">
+    All data that is a product, or subproduct, of user input is to NOT be trusted.
+    They have to either be validated, using the correct methodology, or filtered,
+    before considering them untainted.
+    <br>
+    Files received from a user pose various security threats, especially if other users
+    can download these files.
+</p>

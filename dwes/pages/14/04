@@ -1,0 +1,7 @@
+<h2 class="normal">Front controller</h2>
+<div align="left">
+    El <b>controlador frontal</b> constituye el único punto de entrada
+    a la aplicación. Lo más común es que se acceda con dos parámetros,
+    que son la ruta y la acción. A partir de ambos valores se determina
+    el modelo, la vista y el controlador que atienden la petición.
+</div>

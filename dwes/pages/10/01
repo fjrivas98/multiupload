@@ -1,0 +1,15 @@
+<style>
+    .reveal div .lower { text-transform: lowercase; }
+    .reveal div .normal { text-transform: none; }
+    .reveal code.smaller { font-size: 70%; }
+</style>
+<h2 class="normal">Crear base de datos</h2>
+<div align="left">
+    create database nombrebd<br>
+    &nbsp;&nbsp;default character set utf8<br>
+    &nbsp;&nbsp;collate utf8_unicode_ci;<br>
+    <br>
+    create database nombrebd<br>
+    &nbsp;&nbsp;default character set utf8<br>
+    &nbsp;&nbsp;collate utf8_general_ci;
+</div>

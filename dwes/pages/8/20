@@ -1,0 +1,12 @@
+<h2 class="normal">Iteración sobre objetos</h2>
+<h4 class="normal">
+    Al iterar sobre un objeto desde un método de instancia de la clase se pueden
+    recorrer todas sus variables de instancias públicas y privadas.
+</h4>
+<div align="left">
+    <code>
+        foreach($this as $key => $value) {<br>
+            &nbsp;&nbsp;echo "$key => $value";<br>
+        }
+    </code>
+</div>

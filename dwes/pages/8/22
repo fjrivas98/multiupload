@@ -1,0 +1,12 @@
+<h2 class="normal">Documentación de un método</h2>
+<div align="left">
+    <code>
+        /**<br>
+        * Lorem ipsum ...<br>
+        * @access public<br>
+        * @param string $nuevoValor Cadena ...<br>
+        * @return Devuelve el propio objeto.<br>
+        */<br>
+        function setAlgo($nuevoValor) {
+    </code>
+</div>

@@ -1,0 +1,3 @@
+<h2>Cross Site Request Forgery (CSRF)</h2>
+CSRF attacks allow a malicious user to execute actions using the credentials of another user without that
+user’s knowledge or consent.

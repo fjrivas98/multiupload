@@ -1,0 +1,8 @@
+<h2 class="normal">arrays</h2>
+<div align="left">
+    Un array es una colección de parejas formadas por índices y valores.<br>
+    Todos los arrays en php son asociativos. Aunque si un array sólo tiene
+    índices numéricos también se puede decir que es un array numérico.<br>
+    Los índices de un array pueden ser valores numéricos enteros y cadenas de
+    texto.
+</div>

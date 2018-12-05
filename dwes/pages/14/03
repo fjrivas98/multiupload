@@ -1,0 +1,18 @@
+<h2 class="normal">MVC</h2>
+<div align="left">
+    Modelo Vista Controlador (MVC) es un estilo de arquitectura de
+    software que separa los datos de una aplicación, la interfaz
+    de usuario, y la lógica de control en tres componentes distintos.
+    <ul>
+        <li>
+            modelo - es la parte que se encarga de la persistencia de los datos
+        </li>
+        <li>
+            vista - es la parte que se encarga de generar la respuesta
+        </li>
+        <li>
+            controlador - es la parte que se encarga de controlar los accesos y
+            los datos proporcionados
+        </li>
+    </ul>
+</div>

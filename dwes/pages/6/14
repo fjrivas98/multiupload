@@ -1,0 +1,17 @@
+<h2 class="normal">Inspeccionar arrays o valores</h2>
+<div align="left">
+    <ul>
+        <li>
+            El método var_dump() permite inspeccionar la estructura
+            de un array o de un objeto:<br><code>var_dump($coches);</code>
+        </li>
+        <li>
+            Otra forma más 'amigable' de inspeccionar un array u objeto:<br>
+            <code>
+                echo '&lt;pre&gt;' . <br>
+                    &nbsp;&nbsp;var_export($coches, true) .<br>
+                    &nbsp;&nbsp;'&lt;/pre&gt;';
+            </code>
+        </li>
+    </ul>
+</div>

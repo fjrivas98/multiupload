@@ -1,0 +1,11 @@
+<h2 class="normal">Interfaces</h2>
+<div align="left">
+    Permiten especificar un conjunto de métodos a implementar.<br>
+    <br>
+    <code>
+        interface Interfaz {<br>
+            &nbsp;&nbsp;function getX();<br>
+            &nbsp;&nbsp;function setX($x);<br>
+        }
+    </code>
+</div>

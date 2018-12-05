@@ -1,0 +1,12 @@
+<h2 class="normal">if - elseif - else</h2>
+<div align="left">
+    <code>
+        if (condicion) {<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;codigo_si_verdad;<br>
+        } elseif (condicion) { //else if<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;codigo_si_verdad;<br>
+        } else {<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;codigo_si_falso;<br>
+        }
+    </code>
+</div>

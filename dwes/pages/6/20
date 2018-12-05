@@ -1,0 +1,5 @@
+<h2 class="normal">$_GET</h2>
+<div align="left">
+    Array asociativo que contiene las variables que se han pasado a la página
+    actual a través de la url.
+</div>

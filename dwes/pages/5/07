@@ -1,0 +1,9 @@
+<div align="left">
+    button: A push button with no default behavior.
+    <hr>
+    checkbox: A check box allowing single values to be selected/deselected.
+    <hr>
+    color: A control for specifying a color.
+    <hr>
+    date: A control for entering a date (year, month, and day, with no time).
+</div>

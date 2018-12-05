@@ -1,0 +1,9 @@
+<h2 class="normal">Sentencias preparados</h2>
+<div align="left">
+    <code class="smaller">
+        $sql = 'select * from tabla where id = :id';<br>
+        $sentencia = $conexion->prepare($sql);<br>
+        $sentencia->bindValue('id', $valor);<br>
+        $sentencia->execute();<br>
+    </code>
+</div>

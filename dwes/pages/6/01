@@ -1,0 +1,6 @@
+<style>
+    .reveal div .lower { text-transform: lowercase; }
+    .reveal div .normal { text-transform: none; }
+</style>
+<h2 class="lower">php</h2>
+<h3>PHP: Hypertext Preprocessor</h3>

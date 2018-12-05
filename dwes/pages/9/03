@@ -1,0 +1,14 @@
+<!--<h2>
+    <code>$_FILES['archivo']['error']</code>
+</h2>-->
+<div align="left">
+    $_FILES['archivo']['error'] devuelve un 
+    valor numérico, el valor 0 o la constante 
+    UPLOAD_ERR_OK indica la ausencia de error.<br>
+    $_FILES['archivo']['name'] es el nombre original del archivo.<br>
+    $_FILES['archivo']['size'] es el tamaño en bytes del archivo.<br>
+    $_FILES['archivo']['tmp_name'] es el nombre temporal
+    del archivo con el que se ha subido a la
+    carpeta temporal del servidor.<br>
+    $_FILES['archivo']['type'] es el tipo MIME del archivo.
+</div>

@@ -1,0 +1,5 @@
+<h2>method</h2>
+A method that defines the required action. The different methods/verbs and their associated actions are listed below:
+<div>
+GET - POST - PUT - DELETE - HEAD - TRACE, OPTIONS, CONNECT, PATCH
+</div>

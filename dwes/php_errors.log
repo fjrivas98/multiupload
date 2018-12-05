@@ -1,0 +1,70 @@
+[23-May-2018 12:29:48 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/ubuntu/workspace/reveal/php/reveal.php on line 12
+[23-May-2018 12:39:12 UTC] PHP Notice:  Undefined variable: contador_ in /home/ubuntu/workspace/reveal/php/reveal.php on line 27
+[23-May-2018 12:39:12 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/reveal/php/reveal.php on line 31
+[23-May-2018 12:39:12 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/reveal/php/reveal.php on line 31
+[23-May-2018 12:39:12 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/reveal/php/reveal.php on line 31
+[23-May-2018 12:39:12 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/reveal/php/reveal.php on line 31
+[23-May-2018 12:39:12 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/reveal/php/reveal.php on line 31
+[23-May-2018 12:39:12 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/reveal/php/reveal.php on line 31
+[23-May-2018 12:39:12 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/reveal/php/reveal.php on line 31
+[23-May-2018 12:39:12 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/reveal/php/reveal.php on line 31
+[23-May-2018 12:39:12 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/reveal/php/reveal.php on line 31
+[23-May-2018 12:39:12 UTC] PHP Notice:  Undefined variable: contador_ in /home/ubuntu/workspace/reveal/php/reveal.php on line 27
+[23-May-2018 12:39:12 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/reveal/php/reveal.php on line 31
+[23-May-2018 12:39:12 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/reveal/php/reveal.php on line 31
+[23-May-2018 12:39:12 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/reveal/php/reveal.php on line 31
+[23-May-2018 12:39:12 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/reveal/php/reveal.php on line 31
+[23-May-2018 12:39:12 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/reveal/php/reveal.php on line 31
+[23-May-2018 12:39:12 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/reveal/php/reveal.php on line 31
+[23-May-2018 12:39:12 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/reveal/php/reveal.php on line 31
+[23-May-2018 12:39:12 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/reveal/php/reveal.php on line 31
+[23-May-2018 12:39:12 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/reveal/php/reveal.php on line 31
+[23-May-2018 12:39:36 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/reveal/php/reveal.php on line 31
+[23-May-2018 12:43:22 UTC] PHP Notice:  Undefined variable: d in /home/ubuntu/workspace/reveal/php/reveal.php on line 14
+[23-May-2018 12:43:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/ubuntu/workspace/reveal/php/reveal.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/reveal/php/reveal.php on line 14
+[24-May-2018 09:59:17 UTC] PHP Warning:  fopen(../pages/index1): failed to open stream: No such file or directory in /home/ubuntu/workspace/reveal/php/reveal.php on line 8
+[24-May-2018 10:02:41 UTC] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/reveal/php/reveal.php on line 41
+[24-May-2018 10:10:34 UTC] PHP Notice:  Undefined variable: numThemesWhitout in /home/ubuntu/workspace/reveal/php/reveal.php on line 21
+[24-May-2018 10:10:55 UTC] PHP Notice:  Undefined variable: numThemesWhithout in /home/ubuntu/workspace/reveal/php/reveal.php on line 21
+[24-May-2018 10:19:35 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/reveal/php/reveal.php on line 57
+[24-May-2018 10:27:25 UTC] PHP Notice:  Undefined offset: 1 in /home/ubuntu/workspace/reveal/php/reveal.php on line 60
+[24-May-2018 10:28:55 UTC] PHP Notice:  Undefined offset: 1 in /home/ubuntu/workspace/reveal/php/reveal.php on line 60
+[24-May-2018 10:28:55 UTC] PHP Notice:  Undefined offset: 1 in /home/ubuntu/workspace/reveal/php/reveal.php on line 60
+[24-May-2018 10:30:11 UTC] PHP Notice:  Undefined offset: 1 in /home/ubuntu/workspace/reveal/php/reveal.php on line 61
+[24-May-2018 10:30:11 UTC] PHP Notice:  Undefined offset: 1 in /home/ubuntu/workspace/reveal/php/reveal.php on line 61
+[24-May-2018 10:31:03 UTC] PHP Notice:  Undefined offset: 1 in /home/ubuntu/workspace/reveal/php/reveal.php on line 61
+[24-May-2018 10:31:03 UTC] PHP Notice:  Undefined offset: 1 in /home/ubuntu/workspace/reveal/php/reveal.php on line 61
+[24-May-2018 10:32:55 UTC] PHP Notice:  Undefined offset: 1 in /home/ubuntu/workspace/reveal/php/reveal.php on line 61
+[24-May-2018 10:32:55 UTC] PHP Notice:  Undefined offset: 1 in /home/ubuntu/workspace/reveal/php/reveal.php on line 61
+[24-May-2018 10:33:34 UTC] PHP Notice:  Undefined offset: 1 in /home/ubuntu/workspace/reveal/php/reveal.php on line 61
+[24-May-2018 10:33:34 UTC] PHP Notice:  Undefined offset: 1 in /home/ubuntu/workspace/reveal/php/reveal.php on line 61
+[24-May-2018 10:33:36 UTC] PHP Notice:  Undefined offset: 1 in /home/ubuntu/workspace/reveal/php/reveal.php on line 61
+[24-May-2018 10:33:36 UTC] PHP Notice:  Undefined offset: 1 in /home/ubuntu/workspace/reveal/php/reveal.php on line 61
+[24-May-2018 10:35:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function isNumeric() in /home/ubuntu/workspace/reveal/php/reveal.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/reveal/php/reveal.php on line 19
+[24-May-2018 10:38:03 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/reveal/php/reveal.php on line 23
+[20-Jun-2018 17:10:08 UTC] PHP Warning:  readfile(../pages/2/01): failed to open stream: No such file or directory in /home/ubuntu/workspace/reveal/php/reveal.php on line 15
+[20-Jun-2018 17:10:09 UTC] PHP Warning:  readfile(../pages/2/02): failed to open stream: No such file or directory in /home/ubuntu/workspace/reveal/php/reveal.php on line 15
+[20-Jun-2018 17:10:10 UTC] PHP Warning:  readfile(../pages/2/03): failed to open stream: No such file or directory in /home/ubuntu/workspace/reveal/php/reveal.php on line 15
+[20-Jun-2018 17:10:11 UTC] PHP Warning:  readfile(../pages/2/04): failed to open stream: No such file or directory in /home/ubuntu/workspace/reveal/php/reveal.php on line 15
+[20-Jun-2018 17:10:12 UTC] PHP Warning:  readfile(../pages/2/05): failed to open stream: No such file or directory in /home/ubuntu/workspace/reveal/php/reveal.php on line 15
+[20-Jun-2018 17:10:13 UTC] PHP Warning:  readfile(../pages/2/06): failed to open stream: No such file or directory in /home/ubuntu/workspace/reveal/php/reveal.php on line 15
+[20-Jun-2018 17:10:13 UTC] PHP Warning:  readfile(../pages/2/07): failed to open stream: No such file or directory in /home/ubuntu/workspace/reveal/php/reveal.php on line 15
+[20-Jun-2018 17:10:14 UTC] PHP Warning:  readfile(../pages/2/08): failed to open stream: No such file or directory in /home/ubuntu/workspace/reveal/php/reveal.php on line 15
+[20-Jun-2018 17:10:14 UTC] PHP Warning:  readfile(../pages/2/09): failed to open stream: No such file or directory in /home/ubuntu/workspace/reveal/php/reveal.php on line 15
+[20-Jun-2018 17:10:15 UTC] PHP Warning:  readfile(../pages/2/10): failed to open stream: No such file or directory in /home/ubuntu/workspace/reveal/php/reveal.php on line 15
+[20-Jun-2018 17:10:15 UTC] PHP Warning:  readfile(../pages/2/11): failed to open stream: No such file or directory in /home/ubuntu/workspace/reveal/php/reveal.php on line 15
+[20-Jun-2018 17:10:15 UTC] PHP Warning:  readfile(../pages/2/12): failed to open stream: No such file or directory in /home/ubuntu/workspace/reveal/php/reveal.php on line 15
+[20-Jun-2018 17:10:16 UTC] PHP Warning:  readfile(../pages/2/13): failed to open stream: No such file or directory in /home/ubuntu/workspace/reveal/php/reveal.php on line 15
+[20-Jun-2018 17:10:16 UTC] PHP Warning:  readfile(../pages/2/14): failed to open stream: No such file or directory in /home/ubuntu/workspace/reveal/php/reveal.php on line 15
+[20-Jun-2018 17:10:17 UTC] PHP Warning:  readfile(../pages/2/16): failed to open stream: No such file or directory in /home/ubuntu/workspace/reveal/php/reveal.php on line 15
+[20-Jun-2018 17:10:17 UTC] PHP Warning:  readfile(../pages/2/17): failed to open stream: No such file or directory in /home/ubuntu/workspace/reveal/php/reveal.php on line 15
+[20-Jun-2018 17:10:17 UTC] PHP Warning:  readfile(../pages/2/15): failed to open stream: No such file or directory in /home/ubuntu/workspace/reveal/php/reveal.php on line 15
+[20-Jun-2018 17:10:17 UTC] PHP Warning:  readfile(../pages/2/18): failed to open stream: No such file or directory in /home/ubuntu/workspace/reveal/php/reveal.php on line 15
+[20-Jun-2018 17:14:02 UTC] PHP Warning:  readfile(../pages/1/01): failed to open stream: No such file or directory in /home/ubuntu/workspace/reveal/php/reveal.php on line 15
+[20-Jun-2018 17:14:02 UTC] PHP Warning:  readfile(../pages/1/01): failed to open stream: No such file or directory in /home/ubuntu/workspace/reveal/php/reveal.php on line 15

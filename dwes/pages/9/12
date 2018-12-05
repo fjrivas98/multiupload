@@ -1,0 +1,11 @@
+<h2>Document root</h2>
+<div align="left">
+    El servidor web sólo puede acceder a los documentos que se encuentren
+    desde la carpeta raíz del servidor web hacía abajo.<br>
+    Con php se puede acceder además a los documentos que se encuentren fuera
+    de la carpeta raíz del servidor web, siempre que tenga permiso de lectura
+    o escritura.<br>
+    Para acceder a archivos externos, se puede implementar un script php, que
+    devuelva el tipo MIME del archivo y que a continuación lea el archivo y
+    lo escriba en el buffer de salida.<br>
+</div>

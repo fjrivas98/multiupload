@@ -1,0 +1,8 @@
+<h2>Security issues</h2>
+<p align="left">
+    Using $_REQUEST is strongly discouraged. This super global is not recommended since it
+    includes not only POST and GET data, but also the cookies sent by the request. All of
+    this data is combined into one array, making it almost impossible to determine the
+    source of the data. This can lead to confusion and makes your code prone to mistakes,
+    which could lead to security problems.
+</p>

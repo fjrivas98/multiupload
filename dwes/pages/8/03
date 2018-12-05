@@ -1,0 +1,16 @@
+<style>
+    .reveal div .lower { text-transform: lowercase; }
+    .reveal div .normal { text-transform: none; }
+</style>
+<div align="left">
+    <code>
+    class NombreClase {<br>
+        &nbsp;&nbsp;...<br>
+        &nbsp;&nbsp;static function metodoEstatico() {<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;echo self::$variableEstatica<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;. self::CTE;<br>
+        &nbsp;&nbsp;}<br>
+        &nbsp;&nbsp;...<br>
+    }
+    </code>
+</div>

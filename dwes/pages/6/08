@@ -1,0 +1,9 @@
+<h2 class="normal">Tipos de datos primitivos</h2>
+<div align="left">
+    boolean: <code>$booleano = (bool)   $variable;</code><br>
+    integer: <code>$entero   = (int)    $variable;</code><br>
+    float:   <code>$real     = (float)  $variable;</code><br>
+    string:  <code>$cadena   = (string) $variable;</code><br>
+    array:   <code>$matriz   = (array)  $variable;</code><br>
+    object:  <code>$objeto   = (object) $variable;</code>
+</div>

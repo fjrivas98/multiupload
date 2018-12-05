@@ -1,0 +1,9 @@
+<h2 class="normal">Recuperar una cookie</h2>
+<div align="left">
+    $_COOKIE['name'];
+    <code>
+    if(isset($_COOKIE['usuario'])){<br>
+        &nbsp;&nbsp;echo $_COOKIE['usuario'];<br>
+    }
+    </code>
+</div>

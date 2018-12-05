@@ -1,0 +1,12 @@
+<h2 class="normal">while / do</h2>
+<div align="left">
+    <code>
+        while (condicion) {<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;codigo;<br>
+        }<br>
+        <br>
+        do {<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;codigo;<br>
+        } while (condicion);
+    </code>
+</div>

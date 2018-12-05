@@ -1,0 +1,5 @@
+<h2>Web Server</h2>
+On the software side, a web server includes several parts that control how web users access hosted files,
+at minimum an HTTP server. An HTTP server is a piece of software that understands URLs (web addresses) and
+HTTP (the protocol your browser uses to view webpages). It can be accessed through the domain names (like
+mozilla.org) of websites it stores, and delivers their content to the end-user's device.

@@ -1,0 +1,18 @@
+<style>
+    .reveal div .lower { text-transform: lowercase; }
+    .reveal div .normal { text-transform: none; }
+</style>
+<h2 class="normal">if / if - else</h2>
+<div align="left">
+    <code>
+        if (condicion) {<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;codigo_si_verdad;<br>
+        }<br>
+        <br>
+        if (condicion) {<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;codigo_si_verdad;<br>
+        } else {<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;codigo_si_falso;<br>
+        }
+    <code>
+</div>

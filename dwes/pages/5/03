@@ -1,0 +1,9 @@
+<div align="left">
+   &lt;input&gt; is used to create interactive controls for web-based forms in order to accept data from the user.
+   <hr>
+   &lt;label&gt; a caption for an item in a user interface.
+   <hr>
+   &lt;legend&gt; a caption for the content of its parent &lt;fieldset&gt;.
+   <hr>
+   &lt;meter&gt; either a scalar value within a known range or a fractional value.
+</div>

@@ -1,0 +1,9 @@
+<h2 class="normal">Namespaces</h2>
+<div align="left">
+    Los espacios de nombres permiten agrupar las clases, de forma similar a los
+    paquetes en Java.<br><br>
+    La constante __NAMESPACE__ contiene el nombre del espacio de nombres actual.
+    <br>
+    No existe actualmente ninguna convención acerca del uso de
+    mayúsculas o minúsculas en los nombres de los namespaces.
+</div>

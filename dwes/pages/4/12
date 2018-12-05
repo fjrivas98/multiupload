@@ -1,0 +1,11 @@
+<h2 class="lower">&lt;br&gt; &lt;hr&gt;</h2>
+<div align="left">
+    Two elements that you'll use occasionally and will want to know about are
+    &lt;br&gt; and &lt;hr&gt;:<br>
+    &lt;br&gt; creates a line break in a paragraph; it is the only way to force
+    a rigid structure in a situation where you want a series of fixed short
+    lines.
+    <br>
+    &lt;hr&gt; elements create a horizontal rule in the document that denotes a
+    thematic change in the text.
+</div>

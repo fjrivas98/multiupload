@@ -1,0 +1,10 @@
+<h2 class="normal">Constantes</h2>
+<div align="left">
+    <code>
+        &lt;?php<br>
+        define('CTE', 'constante');<br>
+        echo CTE;<br>
+        const OTRACTE = 'valor cte';<br>
+        echo OTRACTE;<br>
+    </code>
+</div>

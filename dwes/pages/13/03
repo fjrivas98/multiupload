@@ -1,0 +1,7 @@
+<h2>Cross-Site Scripting (XSS)</h2>
+XSS is a term used to describe a class of attacks that allow an attacker to inject client-side scripts through
+the website into the browsers of other users.<br>
+A reflected XSS vulnerability occurs when user content that is passed to the server is returned immediately and
+unmodified for display in the browser.<br>
+A persistent XSS vulnerability is one where the malicious script is stored on the website and then later redisplayed
+unmodified for other users to unwittingly execute.

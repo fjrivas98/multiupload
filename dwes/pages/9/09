@@ -1,0 +1,12 @@
+<h2 class="lower">&lt;form&gt; post multiple files</h2>
+<div align="left">
+    <code>
+        &lt;form action="&#8230;"<br>
+        &nbsp;&nbsp;&nbsp;enctype="multipart/form-data"<br>
+        &nbsp;&nbsp;&nbsp;method="post"&gt;<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8230;<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;input type="file" multiple<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name="&#8230;" &gt;<br>
+        &lt;/form&gt;
+    </code>
+</div>

@@ -1,0 +1,5 @@
+<h3>Habilitar los errores en el código</h3>
+<div>
+    error_reporting(E_ALL);<br>
+    ini_set('display_errors', 1);<br>
+</div>

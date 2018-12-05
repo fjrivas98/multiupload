@@ -1,0 +1,16 @@
+<h2 class="normal">Sintaxis alternativa</h2>
+<h4 class="normal">
+    Se utiliza sólo al mezclar PHP con HTML.
+</h4>
+<div align="left">
+    <code>
+        &lt;?php if (cond): ?&gt;<br>
+            …<br>
+        &lt;?php else: ?&gt;<br>
+            …<br>
+        &lt;?php endif; ?&gt;<hr>
+        &lt;?php switch(expr): ?&gt;<br>
+            …<br>
+        &lt;?php endswitch; ?&gt;
+    </code>
+</div>

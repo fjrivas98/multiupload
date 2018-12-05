@@ -1,0 +1,10 @@
+<h2>Partes del nombre de un archivo</h2>
+<div align="left">
+    <code>
+        $n = pathinfo('C:\Users\archivo.txt');<br>
+        echo $n['dirname']; // C:\Users<br>
+        echo $n['basename']; // archivo.txt<br>
+        echo $n['extension']; // txt<br>
+        echo $n['filename']; // archivo<br>
+    </code>
+</div>

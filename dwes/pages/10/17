@@ -1,0 +1,7 @@
+<h2 class="normal">Obtener información</h2>
+<div align="left">
+    <code>
+        $conexion->lastInsertId();<br>
+        $sentencia->rowCount();
+    </code>
+</div>

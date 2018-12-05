@@ -1,0 +1,14 @@
+<style>
+    .reveal div .lower { text-transform: lowercase; }
+    .reveal div .normal { text-transform: none; }
+    .reveal code.smaller { font-size: 70%; }
+</style>
+<h2 class="normal">Cookies persistentes</h2>
+<div align="left">
+    Cookies o cookies persistentes, son
+    archivos que se guardan en el cliente y
+    que se pueden recuperar desde el lado
+    servidor. Sirven para almacenar
+    información del cliente en el cliente entre
+    sesiones.
+</div>

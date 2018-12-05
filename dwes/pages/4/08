@@ -1,0 +1,5 @@
+<h2 class="lower">&lt;nav&gt;</h2>
+<div align="left">
+    &lt;nav&gt; contains the main navigation functionality for the page.
+    Secondary links, etc., would not go in the navigation.
+</div>

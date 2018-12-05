@@ -1,0 +1,11 @@
+<h2 class="normal">Definir campos II</h2>
+<div align="left">
+    create table2 if not exists table2 (<br>
+        &nbsp;&nbsp;id bigint not null auto_increment,<br>
+        &nbsp;&nbsp;campo1 varchar(20) binary not null,<br>
+        &nbsp;&nbsp;campo2 text,<br>
+        &nbsp;&nbsp;primary key(id),<br>
+        &nbsp;&nbsp;foreign key(campo1) references tabla1(campo1)<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;on update cascade on delete restrict<br>
+    ) engine=innodb;
+</div>

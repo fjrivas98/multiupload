@@ -1,0 +1,9 @@
+<h2 class="normal">Uso de traits</h2>
+<div align="left">
+    <code>
+        class ClaseConTrait {<br>
+            &nbsp;&nbsp;use NombreTrait;<br>
+            &nbsp;&nbsp;...<br>
+        }
+    </code>
+</div>

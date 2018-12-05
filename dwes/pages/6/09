@@ -1,0 +1,8 @@
+<h2 class="normal">Booleanos y condiciones</h2>
+<div align="left">
+    Los valores booleanos son true/TRUE y false/FALSE.<br>
+    Los valores entero 0 y flotante 0.0 son false.<br>
+    La cadena vacía '' y la cadena '0' son false.<br>
+    Un array vacío array()/[] es false.<br>
+    El valor null/NULL es false.
+</div>

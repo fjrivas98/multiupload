@@ -1,0 +1,9 @@
+<style>
+    .reveal div .lower { text-transform: lowercase; }
+</style>
+<h2 class="lower">&lt;main&gt;</h2>
+<div align="left">
+    &lt;main&gt; is for content unique to a page.
+    Use &lt;main&gt; only once per page, and put it directly inside &lt;body&gt;.
+    Ideally this shouldn't be nested within other elements.
+</div>

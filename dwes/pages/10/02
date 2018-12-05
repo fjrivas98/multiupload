@@ -1,0 +1,11 @@
+<h2 class="normal">Crear usuario</h2>
+<div align="left">
+    create user usuariobd@localhost<br>
+    &nbsp;&nbsp;identified by 'clavebd';<br>
+    <br>
+    grant all<br>
+    &nbsp;&nbsp;on nombrebd.*<br>
+    &nbsp;&nbsp;to usuariobd@localhost;<br>
+    <br>
+    flush privileges;
+</div>

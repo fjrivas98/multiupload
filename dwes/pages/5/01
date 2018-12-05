@@ -1,0 +1,20 @@
+<style>
+    .reveal div .lower { text-transform: lowercase; }
+</style>
+<h2 class="lower">&lt;form&gt; elements</h2>
+<div align="left">
+   &lt;button&gt
+   &lt;datalist&gt
+   &lt;fieldset&gt
+   &lt;form&gt
+   &lt;input&gt
+   &lt;label&gt
+   &lt;legend&gt
+   &lt;meter&gt
+   &lt;optgroup&gt
+   &lt;option&gt
+   &lt;output&gt
+   &lt;progress&gt
+   &lt;select&gt
+   &lt;textarea&gt
+</div>

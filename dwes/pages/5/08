@@ -1,0 +1,9 @@
+<div align="left">
+    datetime-local: A control for entering a date and time, with no time zone.
+    <hr>
+    email: A field for editing an e-mail address.
+    <hr>
+    file: A control that lets the user select a file.
+    <hr>
+    hidden: A control that is not displayed but whose value is submitted to the server.
+</div>

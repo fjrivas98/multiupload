@@ -1,0 +1,7 @@
+<h2 class="lower">&lt;input&gt; attributes</h2>
+<div align="left">
+    type, accept, autocomplete, autofocus, checked, disabled,
+    form, list, max, maxlength, min, minlength, multiple,
+    name, pattern, placeholder, readonly, required, size,
+    src, step, tabindex, value
+</div>

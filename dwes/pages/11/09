@@ -1,0 +1,6 @@
+<h2 class="normal">session_regenerate_id()</h2>
+<div align="left">
+    Reemplaza el id de sesión actual por uno nuevo.<br>
+    Es conveniente ejecutarlo cada vez que se inicia una sesión nueva o bien
+    al cerrarla.
+</div>

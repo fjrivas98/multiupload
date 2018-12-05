@@ -1,0 +1,8 @@
+<h2 class="normal">Comentarios</h2>
+<div align="left">
+    <code>
+        &lt;?php<br>
+        // comentario<br>
+        /* comentario */<br>
+    </code>
+</div>

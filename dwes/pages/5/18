@@ -1,0 +1,11 @@
+<h2 class="lower">&lt;a href="&#8230;"&gt;links&lt;/a&gt;</h2>
+<h3 class="lower">links with parameters</h3>
+<div align="left">
+    ../en-US/page.xyz?param1=value1&amp;param2=value2<br><br>
+    question mark (?)<br>
+    parameter = value<br>
+    ampersand (&amp;)<br>
+    parameter = value<br>
+    &#8230;<br>
+    The values of each parameter must be URL-encoded (function urlencode()).
+</div>

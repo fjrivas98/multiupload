@@ -1,0 +1,8 @@
+<h2 class="lower">
+    move_uploaded_file(), file_exists()
+</h2>
+<div align="left">
+    Al subir un archivo se copia en una carpeta temporal del servidor, con 
+    <strong>file_exists()</strong> se puede comprobar si ya existe el destino y con 
+    <strong>move_uploaded_file()</strong> se puede copiar en su destino definitivo.
+</div>

@@ -1,0 +1,6 @@
+<h2>PHP</h2>
+<p align="left">
+    The most common way to ensure the user input is to escape strings when
+    you are generating the final result!!<br><br>
+    echo htmlspecialchars(trim($userInput));
+</p>

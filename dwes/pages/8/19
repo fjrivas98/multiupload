@@ -1,0 +1,13 @@
+<h2 class="normal">Iteración sobre objetos</h2>
+<h4 class="normal">
+    Al iterar sobre un objeto desde fuera de la clase se pueden recorrer todas
+    sus variables de instancias públicas.
+</h4>
+<div align="left">
+    <code>
+        $object = new NombreClase();<br>
+        foreach($object as $key => $value) {<br>
+            &nbsp;&nbsp;echo "$key => $value";<br>
+        }
+    </code><br>
+</div>

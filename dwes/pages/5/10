@@ -1,0 +1,9 @@
+<div align="left">
+    radio: A radio button, allowing a single value to be selected out of multiple choices.
+    <hr>
+    range: A control for entering a number whose exact value is not important.
+    <hr>
+    reset: A button that resets the contents of the form to default values.
+    <hr>
+    search: A single-line text field for entering search strings.
+</div>

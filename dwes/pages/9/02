@@ -1,0 +1,9 @@
+<h2>
+    <code>
+    $_POST / $_FILES
+    </code>
+</h2>
+<div align="left">
+    Todos los parámetros del formulario se procesan con $_POST.<br>
+    Los parámetros de tipo file se procesan con $_FILES.
+</div>

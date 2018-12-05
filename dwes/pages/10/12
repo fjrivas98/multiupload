@@ -1,0 +1,13 @@
+<h2 class="normal">Conexion</h2>
+<div align="left">
+    <code class="smaller">
+    $conexion = new PDO(<br>
+        &nbsp;&nbsp;'mysql:host=' . $servidor . ';dbname=' . $baseDatos,<br>
+        &nbsp;&nbsp;$usuario,<br>
+        &nbsp;&nbsp;$clave,<br>
+        &nbsp;&nbsp;array(<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;PDO::ATTR_PERSISTENT => true,<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;PDO::MYSQL_ATTR_INIT_COMMAND => 'set names utf8')<br>
+    );
+    </code>
+</div>

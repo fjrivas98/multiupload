@@ -1,0 +1,26 @@
+<h2 class="normal">Expresiones</h2>
+<div align="left">
+    Operadores:
+    <br>
+    &nbsp;&nbsp;+
+    &nbsp;&nbsp;-
+    &nbsp;&nbsp;*
+    &nbsp;&nbsp;/
+    &nbsp;&nbsp;%
+    &nbsp;&nbsp;++
+    &nbsp;&nbsp;--
+    &nbsp;&nbsp;==
+    &nbsp;&nbsp;&lt;=
+    &nbsp;&nbsp;&gt;=
+    &nbsp;&nbsp;!=
+    &nbsp;&nbsp;&lt;&gt;
+    &nbsp;&nbsp;&lt;
+    &nbsp;&nbsp;&gt;
+    &nbsp;&nbsp;&amp;&amp;
+    &nbsp;&nbsp;||
+    &nbsp;&nbsp;!
+    <br>
+    Concatenación de cadenas:
+    <br>
+    <code>&nbsp;&nbsp;$cadena = 'hola ' . $cadena;</code>
+</div>

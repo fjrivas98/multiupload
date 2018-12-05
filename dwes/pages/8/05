@@ -1,0 +1,13 @@
+<h2 class="normal">Constructores</h2>
+<div align="left">
+    <code>
+    class NombreClase {<br>
+        &nbsp;&nbsp;function __construct() {<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;echo 'constructor';<br>
+        &nbsp;&nbsp;}<br>
+        &nbsp;&nbsp;function __destruct() {<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;echo 'destructor';<br>
+        &nbsp;&nbsp;}<br>
+        }<br>
+    </code>
+</div>

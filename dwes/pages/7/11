@@ -1,0 +1,14 @@
+<h2 class="normal">Sintaxis alternativa</h2>
+<div align="left">
+    <code>
+        &lt;?php while (cond): ?&gt;<br>
+        …<br>
+        &lt;?php endwhile; ?&gt;<hr>
+        &lt;?php for(…): ?&gt;<br>
+        …<br>
+        &lt;?php endfor; ?&gt;<hr>
+        &lt;?php foreach(…): ?&gt;<br>
+        …<br>
+        &lt;?php endforeach; ?&gt;
+    </code>
+</div>

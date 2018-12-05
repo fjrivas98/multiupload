@@ -1,0 +1,9 @@
+<h2>Security issues: PHP</h2>
+<p align="left">
+    <ul>
+        <li>prepared statements, PDO</li>
+        <li>htmlspecialchars</li>
+        <li>htmlentities, strip_tags, etc.</li>
+        <li>filter_var</li>
+    </ul>
+</p>

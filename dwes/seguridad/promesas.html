@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Document</title>
+    </head>
+    <body>
+        <script type="text/javascript">
+var contador = 0;
+function successCallback(result) {
+    console.log("It succeeded with " + result);
+    contador++;
+    if(contador > 1 && Math.random() > .5) {
+        throw new Error('Something failed');
+        //return "second";
+    } else {
+        return contador + " " + result + " " + result;
+    }
+}
+
+function failureCallback(error) {
+    console.log("It failed with " + error);
+    return 2;
+}
+function doSomething() {
+    return new Promise((resolve, reject) => {
+        console.log("It is done.");
+        if (Math.random() > .5) {
+            resolve("SUCCESS");
+        } else {
+            reject("FAILURE");
+        }
+    });
+}
+var doOtherting = new Promise(function(resolve, reject){
+    console.log("11.");
+    if (Math.random() > .5) {
+        resolve("22");
+    } else {
+        reject("33");
+    }
+});
+//doSomething().then(successCallback, failureCallback);
+//doSomething().then(successCallback).then(successCallback).catch(failureCallback);
+doSomething()
+.then(function(r){return successCallback(r);})
+.then(function(r){return successCallback(r);})
+.then(function(r){console.log("todo: " + r); return 1;})
+.catch(failureCallback)
+.then(function(r){console.log("siempre " + r);});
+
+var ej2 = function() {
+    doOtherting
+    .then(function(r){console.log("ej2 ok " + r);})
+    .catch(function(r){console.log("ej2 no " + r);});
+}
+ej2();
+        </script>
+    </body>
+</html>

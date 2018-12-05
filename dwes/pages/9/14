@@ -1,0 +1,11 @@
+<div align="left">
+    Usando las cabeceras (header), se puede forzar que un archivo tenga que ser
+    descargado en el cliente.<br>
+    <code class="smaller">
+        header('Content-Type: application/octet-stream');<br>
+        header('Content-Disposition: attachment;<br>
+        &nbsp;&nbsp;filename=destino.jpg');<br>
+        header('Content-Transfer-Encoding: binary');<br>
+        readfile('trayecto/archivo.jpg');
+    </code>
+</div>

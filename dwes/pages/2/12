@@ -1,0 +1,3 @@
+<h2>Additional information: Data</h2>
+The message-body (if any) of an HTTP message is used to carry the payload body associated with the request or response.
+It is the data normally send by a POST or PUT request.

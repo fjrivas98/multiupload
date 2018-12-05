@@ -1,0 +1,23 @@
+<!-- https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure -->
+<style>
+    .reveal div .smaller { font-size: 80%; }
+</style>
+<div class="smaller" align="left">
+    <a href="pages/html/html5.html" target="dwes">
+        <img src="pages/img/html5.png" alt="html5" style="float:right; width:570px; height:430px;">
+    </a>
+    &lt;!DOCTYPE html&gt;<br>
+    &lt;html&gt;<br>
+        &nbsp;&nbsp;&nbsp;&lt;head&gt;<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;meta charset="utf-8"&gt;<br>
+        &nbsp;&nbsp;&nbsp;&lt;/head&gt;<br>
+        &nbsp;&nbsp;&nbsp;&lt;body&gt;<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;header/&gt;<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;nav/&gt;<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;main/&gt;<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;article/&gt;|&lt;section/&gt;<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;aside/&gt;<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;footer/&gt;<br>
+        &nbsp;&nbsp;&nbsp;&lt;/body&gt;<br>
+    &lt;/html&gt;<br>
+</div>

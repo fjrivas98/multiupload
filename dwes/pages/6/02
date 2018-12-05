@@ -1,0 +1,14 @@
+<h2 class="normal">Código php</h2>
+<div align="left">
+ <code>
+  &lt;?php<br>
+   echo 'php';<br>
+  ?&gt;<br>
+  <hr>
+  &lt;?= 'php' ?&gt;<br>
+  <hr>
+  &lt;?php<br>
+   echo 'php';<br>
+  //sin cierre
+ </code>
+</div>

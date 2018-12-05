@@ -1,0 +1,11 @@
+<h2 class="normal">select</h2>
+<table>
+    <tr>
+        <td>
+        select *<br>
+        from tabla1 t1<br>
+        <strong>left join</strong> tabla1 t2<br>
+        on (t1.campo1 = t2.campo1);
+        </td>
+    </tr>
+</table>

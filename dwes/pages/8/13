@@ -1,0 +1,14 @@
+<h2 class="normal">Traits</h2>
+<div align="left">
+    Un trait es un mecanismo de reutilización de código. Un trait permite
+    implementar métodos de una clase haciendo referencia a los atributos de
+    la clase.
+    <br>
+    <code>
+        trait NombreTrait {<br>
+            &nbsp;&nbsp;function metodoTrait() {<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;...<br>
+            &nbsp;&nbsp;}<br>
+        }
+    </code>
+</div>

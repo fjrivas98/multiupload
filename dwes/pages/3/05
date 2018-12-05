@@ -1,0 +1,7 @@
+<h2>Other tools</h2>
+<div align="left">
+    <a target="dwes" href="http://validator.w3.org/">Markup Validation Service</a><br>
+    <a target="dwes" href="https://jigsaw.w3.org/css-validator/">CSS Validation Service</a><br>
+    <a target="dwes" href="https://www.jslint.com/">JSLint, the JavaScript Code Quality Tool</a><br>
+    <a target="dwes" href="https://achecker.ca/checker/index.php">Web Accessibility Checker</a>
+</div>

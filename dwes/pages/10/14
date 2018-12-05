@@ -1,0 +1,6 @@
+<h2 class="normal">Cerrar conexión</h2>
+<div align="left">
+    <code class="smaller">
+        $conexion = null;
+    </code>
+</div>

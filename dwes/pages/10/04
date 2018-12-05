@@ -1,0 +1,12 @@
+<h2 class="normal">Definir campos I</h2>
+<div align="left">
+    create table1 if not exists table1 (<br>
+        &nbsp;&nbsp;campo1 varchar(20) binary not null,<br>
+        &nbsp;&nbsp;campo2 varchar(40) not null,<br>
+        &nbsp;&nbsp;campo3 enum('a','u','i') not null default 'u',<br>
+        &nbsp;&nbsp;campo4 numeric(9,2),<br>
+        &nbsp;&nbsp;campo5 boolean not null default false,<br>
+        &nbsp;&nbsp;primary key (campo1),<br>
+        &nbsp;&nbsp;unique (campo2)<br>
+    ) engine=innodb;
+</div>

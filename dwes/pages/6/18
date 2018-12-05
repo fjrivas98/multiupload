@@ -1,0 +1,11 @@
+<h2 class="normal">Variables predefinidas</h2>
+<div align="left">
+    $_COOKIE<br>
+    $_ENV<br>
+    $_FILES<br>
+    $_GET<br>
+    $_POST<br>
+    $_REQUEST<br>
+    $_SERVER<br>
+    $_SESSION
+</div>

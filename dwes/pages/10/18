@@ -1,0 +1,12 @@
+<h2 class="normal">Transacciones</h2>
+<div align="left">
+    <code class="smaller">
+        $conexion->beginTransaction();<br>
+        …<br>
+        if( condicion ) {<br>
+            &nbsp;&nbsp;$conexion->commit();<br>
+        } else {<br>
+            &nbsp;&nbsp;$conexion->rollBack();<br>
+        }
+    </code>
+</div>

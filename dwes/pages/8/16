@@ -1,0 +1,8 @@
+<h2 class="normal">Declaración de un namespace</h2>
+<div align="left">
+    Los espacios de nombres deben declararse al principio del archivo.<br><br>
+    <code>
+        namespace proyecto;<br><br>
+        namespace proyecto\libreria1;
+    </code>
+</div>

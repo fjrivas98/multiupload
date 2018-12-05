@@ -1,0 +1,14 @@
+<h2>Website security</h2>
+<p align="left">
+    <ul>
+        <li>
+            Cross-Site Scripting (XSS)
+            <ul>
+                <li>reflected XSS</li>
+                <li>persistent XSS</li>
+            </ul>
+        </li>
+        <li>SQL injection</li>
+        <li>Cross Site Request Forgery (CSRF)</li>
+    </ul>
+</p>

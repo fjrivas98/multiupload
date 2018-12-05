@@ -1,0 +1,7 @@
+<style>
+    .reveal div .lower { text-transform: lowercase; }
+    .reveal div .normal { text-transform: none; }
+    .reveal code.smaller { font-size: 70%; }
+</style>
+<h2>MVC</h2>
+<h2 class="normal">Model view controller with front controller</h2>

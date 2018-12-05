@@ -1,0 +1,15 @@
+<h2 class="normal">Array: unset</h2>
+<div align="left">
+    <ul>
+        <li>
+            <code>unset($coches[0]);</code> elimina el elemento del array;
+        </li>
+        <li>
+            <code>unset($coches);</code> elimina el array;
+        </li>
+        <hr>
+        <li>
+            <code>$coches[] = 'vw';</code> agrega elemento al final del array
+        </li>
+    </ul>
+</div>

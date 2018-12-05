@@ -1,0 +1,12 @@
+<h2 class="normal">Crear tabla</h2>
+<div align="left">
+    create table nombretabla (
+        &nbsp;&nbsp;definir_campos_y_restricciones<br>
+    ) <strong>engine = innodb<br>
+        &nbsp;&nbsp;character set utf8<br>
+        &nbsp;&nbsp;collate utf8_unicode_ci</strong>;<br>
+    <br>
+    <a href="https://stackoverflow.com/questions/63090/surrogate-vs-natural-business-keys" target="dwes">
+        https://stackoverflow.com/questions/63090/surrogate-vs-natural-business-keys
+    </a>
+</div>

@@ -1,0 +1,8 @@
+<div align="left">
+    <code>
+        if(file_exists($destino)) ...<br><br>
+    </code>
+    Al mover el archivo con move_uploaded_file() se sobrescribe el 
+    archivo si ya existe. Con este método podemos comprobar previamente
+    si el archivo existe.
+</div>

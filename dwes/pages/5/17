@@ -1,0 +1,11 @@
+<h2 class="lower">&lt;a href="&#8230;"&gt;links&lt;/a&gt;</h2>
+<div align="left">
+    absolute links:
+    https://www.mozilla.org/en-US/<br>
+    relative links:
+    ../pdfs/project-brief.pdf<br>
+</div>
+<style>
+.reveal div .box {border: 1px solid #000;}
+</style>
+<h4 class="lower box">use relative links wherever possible</h4>

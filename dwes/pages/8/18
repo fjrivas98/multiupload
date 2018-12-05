@@ -1,0 +1,17 @@
+<h2 class="normal">Autocarga con namespace</h2>
+<div align="left">
+    <code>
+        spl_autoload_register(<br>
+            &nbsp;&nbsp;function ($clase) {<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;$archivo = dirname(__FILE__) . '/'<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;. str_replace('\\', '/', $clase)<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;. '.php';<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;if (file_exists($archivo)) {<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;require($archivo);<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;}<br>
+        });<br>
+    </code>
+    <small>
+        https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-4-autoloader-examples.md
+    </small>
+</div>

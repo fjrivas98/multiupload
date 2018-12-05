@@ -1,0 +1,7 @@
+<h2 class="lower">&lt;header&gt;</h2>
+<div align="left">
+    &lt;header&gt; represents a group of introductory content. If it is a child
+    of &lt;body&gt; it defines the global header of a webpage, but if it's a
+    child of an &lt;article&gt; or &lt;section&gt; it defines a specific header
+    for that section (try not to confuse this with titles and headings.)
+</div>

@@ -1,0 +1,12 @@
+<h2 class="normal">Extensión mysql pdo</h2>
+<div align="left">
+    <code>
+        $conexion = new PDO(<br>
+            &nbsp;&nbsp;$host,<br>
+            &nbsp;&nbsp;$usuario,<br>
+            &nbsp;&nbsp;$clave,<br>
+            &nbsp;&nbsp;$arrayOpciones);<br>
+    </code>
+    El constructor tiene al menos tres parámetros: host (y base de datos
+    opcionalmente), usuario y clave.
+</div>

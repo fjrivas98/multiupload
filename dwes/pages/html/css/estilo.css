@@ -1,0 +1,56 @@
+article {
+    background-color: white;
+    margin: 1%;
+    padding: 2%;
+}
+
+aside {
+    background-color: darkgray;
+    float: right;
+    padding: 2%;
+    width: 30%;
+}
+
+aside a {
+    color: white;
+    text-decoration : none;
+}
+
+body {
+    font-family: verdana, sans-serif;
+    font-size: 0.9em;
+}
+
+footer {
+    clear: both;
+}
+
+footer, header {
+    background-color: darkgray;
+    color: white;
+    padding: 2%;
+}
+
+main {
+    background-color: darkgray;
+    float: left;
+    margin-bottom: 1%;
+    padding: 2%;
+    width: 60%;
+}
+
+nav ul, aside ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 1%;
+}
+
+section {
+    background-color: lightgrey;
+    margin: 1%;
+    padding: 2%;
+}

@@ -1,0 +1,8 @@
+<h2 class="normal">Igualdad e identidad</h2>
+<div align="left">
+    Con == se comprueba la igualdad de dos valores después de haberlos
+    convertido a un tipo común.<br>
+    Con === se comprueba la identidad de dos valores (mismo tipo y valor).<br>
+    Si son dos objetos o arrays comprueba si son el mismo objeto o array.<br>
+    Es más seguro utilizar el operador identidad: ===.
+</div>

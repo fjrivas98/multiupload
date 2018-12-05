@@ -141,6 +141,7 @@ $alert = Alert::getMessage(Reader::get('op'), Reader::get('resultado'));
                             if($usuariosesion->getAdmin()==='1'){
                             ?>
                             <th>Activo</th>
+                            <th>Admin</th>
                             <th>Fecha alta</th>
                             <th>Borrar</th>
                             <th>Editar</th>
@@ -171,6 +172,7 @@ $alert = Alert::getMessage(Reader::get('op'), Reader::get('resultado'));
                                     if($usuariosesion->getAdmin()==='1'){
                                     ?>
                                     <td><?= $usuario->getActivo() ?></td>
+                                    <td><?= $usuario->getAdmin() ?></td>
                                     <td><?= $usuario->getFechaalta() ?></td>
                                     <td><a href="./usuario/dodelete.php?id=<?= $usuario->getId() ?>" class = "borrar">Borrar</a></td>
                                     <td><a href="./usuario/edit.php?id=<?= $usuario->getId() ?>">Editar</a></td>

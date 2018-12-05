@@ -1,0 +1,32 @@
+<h2 class="normal">Operaciones sobre arrays</h2>
+<div align="left">
+    <ul>
+        <li>
+            array_keys(), array con los índices del array;
+        </li>
+        <li>
+            array_merge(), suma dos arrays;
+        </li>
+        <li>
+            array_values(), devuelve el array reindexado;
+        </li>
+        <li>
+            count(), cuenta número de elementos del array;
+        </li>
+        <li>
+            explode(), convierte una cadena en un array;
+        </li>
+        <li>
+            implode(), convierte un array en una cadena;
+        </li>
+        <li>
+            in_array(), busca elemento en el array;
+        </li>
+        <li>
+            is_array(), comprueba si es un array;
+        </li>
+        <li>
+            sort(), ordena un array reindexándolo;
+        </li>
+    </ul>
+</div>

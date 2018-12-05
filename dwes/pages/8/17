@@ -1,0 +1,15 @@
+<h2 class="normal">Utilización de un namespace</h2>
+<div align="left">
+    Para usar un espacio de nombres, lo mejor es declarar su uso:
+    <br>
+    <code>
+        use proyecto;<br>
+        use proyecto\libreria1;<br>
+        use proyecto\libreria1 as plib1;<br>
+    </code>
+    Aunque también es posible hacer referencia directamente a la clase:<br>
+    <code>
+        $objeto =<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;new proyecto\libreria1\Clase();
+    </code>
+</div>

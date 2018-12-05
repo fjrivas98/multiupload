@@ -1,0 +1,3 @@
+<h2>SQL injection</h2>
+SQL injection vulnerabilities enable malicious users to execute arbitrary SQL code on a database, allowing
+data to be accessed, modified or deleted irrespective of the user's permissions.

@@ -1,0 +1,14 @@
+<h2 class="normal">Interfaces</h2>
+<div align="left">
+    <code>
+        class Clase implements Interfaz {<br>
+            &nbsp;&nbsp;function getX() {<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;return $this->x;<br>
+            &nbsp;&nbsp;}<br>
+            &nbsp;&nbsp;function setX($x) {<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;$this->x = $x;<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;return $this;<br>
+            &nbsp;&nbsp;}<br>
+        }
+    </code>
+</div>

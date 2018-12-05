@@ -1,0 +1,11 @@
+<div align="left">
+    image: A graphical submit button.
+    <hr>
+    month: A control for entering a month and year, with no time zone.
+    <hr>
+    number: A control for entering a number.
+    <hr>
+    password: A single-line text field whose value is obscured.
+    Use the maxlength and minlength attributes to specify the maximum
+    length of the value that can be entered.
+</div>

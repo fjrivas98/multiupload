@@ -1,0 +1,20 @@
+<h2 class="normal">select</h2>
+<table>
+    <tr>
+        <td>
+        select *<br>
+        from tabla1 t1<br>
+        join tabla2 t2<br>
+        <strong>on (t1.campo1 = t2.campo1)</strong>
+        </td>
+    </tr>
+    <tr>
+        <td>
+        select t1.campo1, t2.campo2<br>
+        from tabla1 t1<br>
+        join tabla2 t2<br>
+        on (t1.campo1 = t2.campo1)<br>
+        <strong>where t1.campo3 = 'u'</strong>;
+        </td>
+    </tr>
+</table>

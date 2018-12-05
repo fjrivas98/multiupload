@@ -1,0 +1,9 @@
+<style>
+    .reveal div .lower { text-transform: lowercase; }
+    .reveal div .normal { text-transform: none; }
+    .reveal code.smaller { font-size: 70%; }
+</style>
+<h2>PHP Security Cheat Sheet</h2>
+<a target="dwes" href="https://www.owasp.org/index.php/PHP_Security_Cheat_Sheet">https://www.owasp.org/index.php/PHP_Security_Cheat_Sheet</a>
+<h2>Website security</h2>
+<a target="dwes" href="https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Website_security">https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Website_security</a>

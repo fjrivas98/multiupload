@@ -1,0 +1,4 @@
+<h2>HEAD</h2>
+Get the metadata information about a specific resource without getting the body like GET would.
+You might for example use a HEAD request to find out the last time a resource was updated, and
+then only use the (more "expensive") GET request to download the resource if it has changed.

@@ -1,0 +1,7 @@
+<h2 class="normal">Definir una cookie</h2>
+<div align="left">
+    setcookie(name, value, expire, …);<br>
+    <code class="smaller">
+    setcookie('usuario', 'admin', time() + 60 * 60);
+    </code>
+</div>

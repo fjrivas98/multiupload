@@ -1,0 +1,8 @@
+<h2 class="normal">include</h2>
+<div align="left">
+    include 'archivo', incluye y evalúa un archivo en la posición actual;
+    <br>
+    include_once 'archivo', comprueba antes si el archivo ya ha sido incluido;
+    <br>
+    si el archivo no existe se produce un warning E_WARNING
+</div>

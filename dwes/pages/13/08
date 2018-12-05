@@ -1,0 +1,8 @@
+<h2>Security issues</h2>
+<p align="left">
+    Since a single SQL Injection vulnerability permits the hacking of your website, and every
+    hacker first tries SQL injection flaws, fixing SQL injections are the first step to securing
+    your PHP powered application. Prepared statements are very secure. In a prepared statement,
+    data is separated from the SQL command, so that everything user inputs is considered data
+    and put into the table the way it was.
+</p>

@@ -1,0 +1,44 @@
+<style>
+    .reveal td code { font-size: 80%; }
+</style>
+<h2 class="normal">arrays asociativos</h2>
+<div align="left">
+    <table>
+        <tr>
+            <td><code>$coches = array('opel', 'seat');</code></td>
+            <td><code>$coches = ['opel', 'seat'];<code></td>
+        </tr>
+        <tr>
+            <td>
+                <code>
+                $coches = array(<br>
+                    &nbsp;&nbsp;0 => 'bmw',<br>
+                    &nbsp;&nbsp;1 => 'seat');
+                </code>
+            </td>
+            <td>
+                <code>
+                    $coches = <br>
+                        &nbsp;&nbsp;[0 => 'bmw',<br>
+                        &nbsp;&nbsp;1 => 'seat'];
+                </code>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <code>
+                    $coches = array(<br>
+                        &nbsp;&nbsp;'de' => 'bmw',<br>
+                        &nbsp;&nbsp;'es' => 'seat');
+                </code>
+            </td>
+            <td>
+                <code>
+                    $coches =<br>
+                        &nbsp;&nbsp;['de' => 'bmw',<br>
+                        &nbsp;&nbsp;'es' => 'seat'];
+                </code>
+            </td>
+        </tr>
+    </table>
+</div>

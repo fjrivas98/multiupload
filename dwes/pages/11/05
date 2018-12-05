@@ -1,0 +1,10 @@
+<h2 class="normal">Cookies de sesión</h2>
+<div align="left">
+    Se utilizan para guardar en el cliente y en
+    el servidor la información referente a una
+    sesión de navegación. Habitualmente se
+    utilizan desde el momento en el que se
+    realiza la autentificación contra el servidor
+    hasta que se cierra la sesión o se cierra el
+    navegador.
+</div>

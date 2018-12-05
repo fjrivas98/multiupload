@@ -1,0 +1,8 @@
+<h2 class="normal">for</h2>
+<div align="left">
+    <code>
+        for (inicio; condicion; incremento) {<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;codigo;<br>
+        }
+    </code>
+</div>

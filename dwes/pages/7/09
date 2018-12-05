@@ -1,0 +1,12 @@
+<h2 class="normal">try - catch</h2>
+<div align="left">
+    <code>
+    try {<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;…<br>
+    } catch(Exception $e) {<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;echo $e->getMessage();<br>
+    }
+    </code><br>
+    <br>
+    Para detener la ejecución se puede usar exit() o die().
+</div>

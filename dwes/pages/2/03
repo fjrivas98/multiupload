@@ -1,0 +1,10 @@
+<h2>HTTP</h2>
+Web browsers communicate with web servers using the Hyper Text Transfer Protocol (HTTP). When you click a link
+on a web page, submit a form, or run a search, the browser sends an HTTP Request to the server. A request includes:
+<p align="left">
+    <ul>
+        <li>URL</li>
+        <li>method</li>
+        <li>additional information</li>
+    </ul>
+</p>

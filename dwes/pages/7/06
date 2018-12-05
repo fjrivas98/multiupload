@@ -1,0 +1,12 @@
+<h2 class="normal">foreach</h2>
+<div align="left">
+    <code>
+        foreach($array as $valor) {<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;codigo;<br>
+        }<br>
+        <br>
+        foreach($array as $indice => $valor){<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;codigo;<br>
+        }
+    </code>
+</div>

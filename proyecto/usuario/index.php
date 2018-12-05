@@ -82,6 +82,7 @@ $alert = Alert::getMessage(Reader::get('op'), Reader::get('resultado'));
                             <th>Alias</th>
                             <th>Nombre</th>
                             <th>Activo</th>
+                            <th>Admin</th>
                             <th>Fecha alta</th>
                             <th>Borrar</th>
                             <th>Editar</th>
@@ -98,6 +99,7 @@ $alert = Alert::getMessage(Reader::get('op'), Reader::get('resultado'));
                                     <td><?= $usuario->getAlias() ?></td>
                                     <td><?= $usuario->getNombre() ?></td>
                                     <td><?= $usuario->getActivo() ?></td>
+                                    <td><?= $usuario->getAdmin() ?></td>
                                     <td><?= $usuario->getFechaalta() ?></td>
                                     <td><a href="dodelete.php?id=<?= $usuario->getId() ?>" class = "borrar">Borrar</a></td>
                                     <td><a href="edit.php?id=<?= $usuario->getId() ?>">Editar</a></td>

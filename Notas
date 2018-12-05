@@ -1,0 +1,96 @@
+Interface :
+ contrato: metodo que hay que implementar
+ 'objetos especiales': EN LA LISTA DE PARAMETROS PUEDO METER para sean interfaces puedo pasarle clases siempre  y cuando esa inferfaz
+ 
+ Lo espacios de nombres son como los paquetes en java y los creamos en minuscula.Cada vez que creemos un proyecto creamos nuesracarpeta de clases de nombres
+ 
+ nunca llamar el archivo en el cliente como en le servidor
+ 
+ Sacar el tipo mime del archivo y mostrarlo con el echo el tipo de mime que es ;
+ 
+ funciones que hemos visto:
+error_reporting(E_ALL);
+ini_set('display_errors',1):+
+empty($_POST['Campo']); en caso de que este vacio no lo coge y te devuelve false
+isset($_POST['Campo']); 
+isset($_GET['Campo']); este te devuelve true si esta en blanco y tepasa la cadena vacia
+echo '<pre>' .  var_export($coches, true) .'</pre>'; Sirve para inspeccionar un elemento
+array_keys(), array con los índices del array;
+array_merge(), suma dos arrays;
+array_values(), devuelve el array reindexado;
+count(), cuenta número de elementos del array;
+explode(), convierte una cadena en un array;
+implode(), convierte un array en una cadena;
+in_array(), busca elemento en el array;
+is_array(), comprueba si es un array;
+sort(), ordena un array reindexándolo;
+unset($coches[0]); elimina el elemento del array;
+unset($coches); elimina el array;
+include 'archivo', incluye y evalúa un archivo en la posición actual; 
+include_once 'archivo', comprueba antes si el archivo ya ha sido incluido; 
+require 'archivo', incluye y evalúa un archivo en la posición actual; 
+require_once 'archivo', comprueba antes si el archivo ya ha sido incluido;
+
+
+NUNCA DEBERIA DE OCUPAR MAS DE UNA PANTALLA Y UN METODO NUNCA DEBERIA DE HACER MAS DE UNA COSA Y TAMPOCO DEBERIA DE HABER UN ANIDAMIENTO:
+
+
+
+TAREA: UPLOAD MULTIPLE :
+solo pasando el nombre de los archivos a subir
+tener al menos un metodod que diga cuantos archivos venian y otro con cuantos se han podido subir
+cuando le pida el nombre tiene que dar los nombres con los que se guarda el archivo (un solo target)
+
+
+
+
+/home/ubuntu/privado
+             /workspace eso es lo que tenemos
+             
+            crear usuarios(archivos o carpetas)
+            mostrar lista de usuarios que se identifique y que una vez se identifique que suba una foto omg ggwp TODO ESTO EN PRIVADO 
+            
+            
+            
+            
+            insert
+            
+            $resultado = $conexion ->lastInsert();
+            
+            
+            delete
+             $resultado = $conexion ->rowCount();
+             update
+             
+             
+             
+             
+             
+             
+  TABLA USUARIO:TAREA
+  USUARIO:
+  id->incremeto primary key
+  correo->not null unique
+  alias(username)->null,unique
+  nombre->not null
+  clave->not null
+  activo->(0,1) significa si esta habilitado o no
+  fechaalta->datetime not null
+  
+  git status
+  git add proyecto2
+  git commit -m 'nombre'
+  git push origin master
+  
+  
+  
+  
+  
+  Trabajillo:
+  Terminar parte de gestion usuarios, es decir pequeña aplicacion solo de tabla usuario(meter campo administrador que es 0 o 1 ) 
+  si eres administrador puedes hacer de todo,borrar,editar,añadir,etc
+  si no eres usuario solo puedes ver usuario de usuarios sin editar ni tocar na(nombres,correos y alias)
+  si eres usuario raso puedes editar tus datos solo y poder darse de baja 
+  hacer comprobaciones
+  Para dia 29
+  

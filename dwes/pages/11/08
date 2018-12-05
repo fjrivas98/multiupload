@@ -1,0 +1,9 @@
+<h2 class="normal">Uso de la sesión</h2>
+<div align="left">
+    Las sesiones son un recurso fundamental en la programación
+    de sitios web.
+    El administrador de sesiones de HTTP es el núcleo de la seguridad web.
+    <br>
+    También se utilizan con otras finalidades, como, por ejemplo, el carrito
+    de la compra.
+</div>

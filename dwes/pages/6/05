@@ -1,0 +1,9 @@
+<h2 class="normal">Variables</h2>
+<div align="left">
+    <code>
+    &lt;?php<br>
+    $variable = valor;<br>
+    echo "hola $variable";<br>
+    echo 'hola ' . $variable;<br>
+    </code>
+</div>

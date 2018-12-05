@@ -1,0 +1,11 @@
+<h2>
+    Códigos de error I
+</h2>
+<div align="left">
+    <ul>
+        <li>UPLOAD_ERR_OK, 0, no hay error</li>
+        <li>UPLOAD_ERR_INI_SIZE, 1, tamaño del archivo excede upload_max_filesize</li>
+        <li>UPLOAD_ERR_FORM_SIZE, 2, tamaño del archivo excede MAX_FILE_SIZE</li>
+        <li>UPLOAD_ERR_PARTIAL, 3, archivo subido sólo parcialmente</li>
+    </ul>
+</div>

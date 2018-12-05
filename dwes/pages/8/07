@@ -1,0 +1,8 @@
+<h2 class="normal">Pojo / Popo</h2>
+<div align="left">
+    A JavaBean is a POJO that is serializable, has a no-argument constructor,
+    and allows access to properties using getter and setter methods that
+    follow a simple naming convention.<br>
+    In PHP we will create this kind of POPO classes to manage the work with
+    application data.
+</div>

@@ -1,0 +1,11 @@
+<h2 class="normal">Herencia</h2>
+<div align="left">
+    <code>
+        class SubClase extends NombreClase {<br>
+            &nbsp;&nbsp;function __construct() {<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;parent::__construct();<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;...<br>
+            &nbsp;&nbsp;}<br>
+        }
+    </code>
+</div>

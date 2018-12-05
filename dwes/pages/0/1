@@ -1,0 +1,22 @@
+<h1>c9.io</h1>
+<div>Instalar mysql y phpmyadmin</div>
+<h6>https://community.c9.io/t/setting-up-phpmyadmin/1723</h6>
+<div>
+mysql-ctl install<br>
+phpmyadmin-ctl install<br>
+mysql-ctl start<br>
+</div>
+<div>
+2. Instalar php 7 (opcional, PHP Version 5.5.9-1ubuntu4.22)
+
+https://github.com/imanseau/Cloud9-PHP7-Upgrade
+(https://community.c9.io/t/how-to-upgrade-to-php7/1379/10)
+
+wget https://raw.githubusercontent.com/imanseau/Cloud9-PHP7-Upgrade/master/cloud9-php7-upgrade.sh
+sudo chmod +x cloud9-php7-upgrade.sh
+./cloud9-php7-upgrade.sh
+
+3. Habilitar los errores
+
+php.ini: display_errors = On (línea 530)
+</div>

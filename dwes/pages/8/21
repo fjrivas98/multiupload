@@ -1,0 +1,15 @@
+<h2 class="normal">Documentación de una clase</h2>
+<div align="left">
+    <code>
+        /**<br>
+        * Class NombreClase<br>
+        *<br>
+        * @version 1.01<br>
+        * @author izv<br>
+        * @license http://...<br>
+        * @copyright izv by cv<br>
+        * Esta clase permite bla bla bla …<br>
+        */<br>
+        class NombreClase {
+    </code>
+</div>

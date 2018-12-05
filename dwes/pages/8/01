@@ -1,0 +1,14 @@
+<style>
+    .reveal div .lower { text-transform: lowercase; }
+    .reveal div .normal { text-transform: none; }
+</style>
+<div align="left">
+    <code>
+    class NombreClase {<br>
+        &nbsp;&nbsp;const CTE = 'valor';<br>
+        &nbsp;&nbsp;private static $variableEstatica;<br>
+        &nbsp;&nbsp;private $variableInstancia;<br>
+        &nbsp;&nbsp;...<br>
+    }
+    </code>
+</div>

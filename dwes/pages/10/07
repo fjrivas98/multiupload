@@ -1,0 +1,17 @@
+<h2 class="normal">select</h2>
+<table>
+    <tr>
+        <td>
+        select *<br>
+        from tabla1;
+        </td>
+    </tr>
+    <tr>
+        <td>
+        select *<br>
+        from tabla1<br>
+        [inner] <strong>join</strong> tabla2<br>
+        <strong>using(campo1)</strong>;
+        </td>
+    </tr>
+</table>

@@ -1,0 +1,15 @@
+<h2 class="normal">Autocarga de clases</h2>
+<div align="left">
+    <code>
+        class Autoload {<br>
+            &nbsp;&nbsp;static function load($clase) {<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;$ruta = dirname(__FILE__) . '/' .<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$clase . '.php';<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;if (file_exists($ruta)) {<br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;require($ruta);<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;}<br>
+            &nbsp;&nbsp;}<br>
+        }<br>
+        spl_autoload_register('Autoload::load');
+    </code>
+</div>

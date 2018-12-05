@@ -1,0 +1,10 @@
+<h2 class="normal">Capturar excepción</h2>
+<div align="left">
+    <code class="smaller">
+    try {<br>
+        &nbsp;$conexion = new PDO(...);<br>
+    } catch (PDOException $e) {<br>
+        &nbsp;exit(); //o la acción que sea<br>
+    }
+    </code>
+</div>

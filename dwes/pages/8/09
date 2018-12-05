@@ -1,0 +1,8 @@
+<h2 class="normal">__toString()</h2>
+<div align="left">
+    Permite definir el comportamiento de un objeto de la clase cuando es usado
+    como cadena de texto.<br>
+    En php existen una serie de métodos predefinidos que empiezan con __, a
+    estos métodos se les suele llamar métodos mágicos, su utilización
+    está predefinida.
+</div>

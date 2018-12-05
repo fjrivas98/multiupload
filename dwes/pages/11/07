@@ -1,0 +1,13 @@
+<h2 class="normal">Cerrar la sesión</h2>
+<div align="left">
+    <code class="smaller">
+    session_destroy();
+    </code>
+    <hr>
+    Si se va a nombrar una sesión, se debe nombrar antes de acceder
+    a ella:<br>
+    <code class="smaller">
+    session_name('nombresesion');<br>
+    session_start();
+    </code>
+</div>

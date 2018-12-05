@@ -1,0 +1,17 @@
+<h2 class="normal">
+    Omit the PHP closing tag
+    <!--Omitir cierre de etiqueta php-->
+</h2>
+<div align="left">
+<!--Si un fichero contiene solamente código de PHP, es preferible omitir la etiqueta
+de cierre de PHP al final del mismo. Así se previene la adición de espacios en
+blanco o nuevas líneas accidentales después de la etiqueta de cierre, lo cual
+causaría efectos no deseados debido a que PHP comenzará la salida del búfer
+cuando no había intención por parte del programador de enviar ninguna salida
+en ese punto del script.-->
+If a file is pure PHP code, it is preferable to omit the PHP closing tag at the
+end of the file. This prevents accidental whitespace or new lines being added
+after the PHP closing tag, which may cause unwanted effects because PHP will
+start output buffering when there is no intention from the programmer to send
+any output at that point in the script.
+</div>

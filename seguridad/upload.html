@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Document</title>
+    </head>
+    <body>
+        <form enctype="multipart/form-data">
+            <input id="file" name="file" type="file" />
+            <input id="uploadbutton" type="button" value="Upload" />
+        </form>
+        <progress></progress>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <script>
+            $("#uploadbutton").click(function () {
+                var filename = $("#file").val();
+                $.ajax({
+                    type: "POST",
+                    url: "upload.php",
+                    enctype: 'multipart/form-data',
+                    data: {
+                        file: filename
+                    },
+                    success: function () {
+                        alert("Data Uploaded: ");
+                    }
+                });
+            });
+        </script>
+    </body>
+</html>

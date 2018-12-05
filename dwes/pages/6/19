@@ -1,0 +1,9 @@
+<h2 class="normal">Constantes predefinidas</h2>
+<div align="left">
+    __CLASS__<br>
+    __DIR__<br>
+    __FILE__<br>
+    __FUNCTION__<br>
+    __LINE__<br>
+    __METHOD__
+</div>

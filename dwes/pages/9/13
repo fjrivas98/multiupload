@@ -1,0 +1,18 @@
+<div align="left">
+    <code>
+        //readfile.php<br>
+        header('Content-type: image/jpeg');<br>
+        readfile('/trayecto/archivo.jpg');<br>
+    </code>
+    Para usarlo:<br>
+    <code>
+        &lt;img src="readfile.php" ... /&gt;
+    </code>
+    <br>También se puede leer directamente:<br>
+    <code>
+        &lt;img SRC="data:image/gif;base64,<br>
+        &nbsp;&nbsp;&lt;?php echo base64_encode(<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;file_get_contents(<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;'/trayecto/archivo.jpg'));?&gt;">
+    </code>
+</div>

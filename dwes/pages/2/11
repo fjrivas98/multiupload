@@ -1,0 +1,6 @@
+<h2>Additional information: URL parameters</h2>
+You always have a question mark (?) separating the rest of the URL from the URL parameters, an equals sign (=)
+separating each name from its associated value, and an ampersand (&) separating each pair.
+<p align="left">
+Example: https://mysite.com?name=Fred&age=11
+</p>

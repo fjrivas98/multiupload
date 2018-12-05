@@ -1,0 +1,8 @@
+<h2 class="normal">Serialización de objetos</h2>
+<div align="left">
+    <code>
+        $objeto = new NombreClase();<br>
+        $cadena = serialize($objeto);<br>
+        $objeto = unserialize($cadena);
+    </code>
+</div>

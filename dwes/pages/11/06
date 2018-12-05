@@ -1,0 +1,20 @@
+<h2 class="normal">Acceder a la sesión</h2>
+<div align="left">
+    <code class="smaller">
+    session_start();
+    </code>
+    <br>Para definir una variable de sesión:<br>
+    <code class = "smaller">
+    $_SESSION['usuario'] = $usuario;
+    </code>
+    <br>Para acceder a una variable de sesión:
+    <code class="smaller">
+    if(isset($_SESSION['usuario'])){<br>
+        &nbsp;&nbsp;echo $_SESSION['usuario'];<br>
+    }
+    </code>
+    <br>Para eliminar una variable de sesión:
+    <code class="smaller">
+    unset($_SESSION['usuario']);
+    </code>
+</div>

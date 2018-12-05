@@ -1,0 +1,12 @@
+<style>
+    .reveal code .smaller { font-size: 80%; }
+</style>
+<h2 class="normal">function</h2>
+<div align="left">
+    <code>
+    function nombre(<span class="smaller">[$parametro[=valor], ...]</span>){<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;codigo;<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;[return $valor;]<br>
+    }
+    </code>
+</div>

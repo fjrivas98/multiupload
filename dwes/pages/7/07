@@ -1,0 +1,12 @@
+<h2 class="normal">foreach $indice => $valor</h2>
+<div align="left">
+    <code>
+    foreach ($array as $indice => $valor){<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;echo $indice . ' ' . $valor;<br>
+    }
+    </code>
+    <br>
+    <br>
+    $indice – representa cada uno de los índices del array<br>
+    $valor – representa cada uno de los valores del array<br>
+</div>

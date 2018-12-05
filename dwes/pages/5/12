@@ -1,0 +1,11 @@
+<div align="left">
+    url: A field for entering a URL.
+    <hr>
+    week: A control for entering a date consisting of a week-year number and a week number with no time zone.
+    <hr>
+    <style type="text/css">
+    .tachado { text-decoration:line-through; }
+    </style>
+    <span class="tachado">datetime: A control for entering a date and time.
+    This feature has been removed from WHATWG HTML.</span>
+</div>

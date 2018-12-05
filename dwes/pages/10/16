@@ -1,0 +1,11 @@
+<h2 class="normal">Ejecutar sentencias</h2>
+<div align="left">
+    <code class="smaller">
+        //$sentencia = $conexion->query( $sql );<br>
+        $sentencia->execute();<br>
+        while( $fila = $sentencia->fetch() ) {<br>
+            &nbsp;&nbsp;echo $fila[0] . '&lt;br/&gt;';<br>
+        }<br>
+        $resultado->closeCursor();
+    </code>
+</div>
